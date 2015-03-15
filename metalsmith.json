@@ -1,0 +1,35 @@
+{
+  "source": "source",
+  "destination": "public",
+  "metadata": {
+    "site": {
+        "title": "The Stanifesto",
+        "description": "est. circa 2000AD",
+        "url": "https://stanifesto.com/",
+        "author": "Stanley Jones"
+    }
+  },
+  "plugins": {
+    "metalsmith-collections": {
+        "posts": {
+            "pattern": "posts/*.md",
+            "sortBy": "date",
+            "reverse": true
+        }
+    },
+    "metalsmith-feed": {
+        "collection": "posts"
+    },
+    "metalsmith-markdown": {},
+    "metalsmith-permalinks": {
+      "pattern": ":title"
+    },
+    "metalsmith-templates": {
+      "engine": "handlebars",
+      "partials": {
+        "header": "partials/header",
+        "footer": "partials/footer"
+      }
+    }
+  }
+}

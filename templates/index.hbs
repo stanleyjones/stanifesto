@@ -1,0 +1,14 @@
+{{> header }}
+
+		<ul>
+		{{#each collections.posts }}
+
+			<li>
+				<h2><a href="{{ this.path }}">{{{ this.title }}}</a></h2>
+				<h6><time datetime="{{ this.date }}">{{ this.date }}</time></h6>
+			</li>
+
+		{{/each}}
+		</ul>
+
+{{> footer }}

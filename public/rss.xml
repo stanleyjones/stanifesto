@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The Stanifesto]]></title><description><![CDATA[est. circa 2000AD]]></description><link>https://stanifesto.com/</link><generator>metalsmith-feed</generator><lastBuildDate>Sun, 15 Mar 2015 01:49:20 GMT</lastBuildDate><atom:link href="https://stanifesto.com/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Stanley Jones]]></author><item><title><![CDATA[A Test Post]]></title><description><![CDATA[
-# This is a Test Post
-
-Here's a paragraph.]]></description><guid isPermaLink="false">A Test Post</guid><dc:creator><![CDATA[Stanley Jones]]></dc:creator><pubDate>Sat, 14 Mar 2015 00:00:00 GMT</pubDate></item></channel></rss>

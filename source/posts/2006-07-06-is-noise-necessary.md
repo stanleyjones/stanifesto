@@ -1,0 +1,18 @@
+---
+title: Is noise necessary?
+slug: is-noise-necessary
+template: post.hbs
+date: 2006-07-06T21:29:08.000Z
+date_updated:   2013-10-21T22:09:02.751Z
+tags: text, art, chaos, evolution, noise, wabi-sabi
+---
+
+Don't get me wrong, I'm a big fan of <em>signal</em>, but I think noise has gotten a raw deal. Modern science has a <a href="http://en.wikipedia.org/wiki/Signal_to_noise" title="Wikipedia: Signal-to-noise">great formula</a> for determining a signal-to-noise ratio with the intention of getting this number as high as possible. Yet, I believe that the optimal ratio may be lower than 1:0.<!--more-->
+
+First, there are lots of contexts in which noise specifically contributes to signal. George Lucas <a href="http://www.starwars.com/community/event/con/news20050802.html" title="Lucas as the Siggraph Keynote in '05">often quotes Akira Kurosawa</a> on the notion of "Immaculate Reality". In an <a href="http://www.wired.com/wired/archive/5.02/fflucas_pr.html" title="Lucas on Star Wars back in '97">old interview with Wired</a>, Lucas says, <blockquote>"[O]bviously everything is kind of dirty in the real world, and everything is kind of beat up, and everybody doesn't drive around in a brand-new car."</blockquote> However, isn't this really just noise <em>serving as signal</em>? The signal in this case is the Immaculate Reality used to convince movie-goers that what they're seeing is real and a little dirt here and there is "value added".
+
+The case for noise is better made by the lives of woks and <a href="http://www.holymtn.com/teapots/yixing.htm" title="An ugly but informative site on Yixing teapots">Yixing teapots</a>. A wok is never washed with soap, but instead allowed a patina seasoned by the dishes it has cooked before. Similarly, teapots were traditionally for personal use and would be flavored by the past teas brewed by its owner. Thus the same tea from different teapots might have a subtly different taste. In this case, non-random data (the tea is brewed deliberately) is affecting the current signal in a random way, with the intention of enhancing the content.
+
+Lest you think noise's only friends are entirely Eastern (though I should mention that Buddhism's <a href="http://www.buddhanet.net/e-learning/8foldpath.htm" title="Basic Buddhism Guide: The 8-Fold Path">First Noble Truth</a> is <em>Dukkha</em>, or dissatisfaction, before moving on), let us not forget the West's very own Charles Darwin and the Theory of Evolution. Afterall, if <a href="http://www.dnaftb.org/dnaftb/27/concept/" title="A Flash illustration of DNA mutation">DNA got the signal right</a> every single time we reproduced and there were no mutations, we would not only be just like our parents (scary enough) but our parents would still be single-celled goop. Noise is the driving force of evolution.
+
+The question that is left for me is how noise can be allowed for in digital media. It's one thing to imitate it with <a href="http://www.phong.com/tutorials/chip/" title="A tutorial on Phong.com">distressed text</a> and <a href="http://www.3dtotal.com/team/Tutorials/leafproject/leaf_1.asp" title="A tutorial from 3DCreative Magazine">bump maps</a>, it's another to let external forces actually affect your work. <a href="http://www.37signals.com/svn/" title="37signals">Signal vs. Noise</a> has a post about <a href="http://www.37signals.com/svn/archives2/wabisabis_simplicity.php" title="SvN: Wabi-sabi's simplicity">Wabi-sabi</a>, but mainly praising its comfortable simplicity and kind of missing the point. Will a format made out of 1s and 0s ever achieve the chaos of an unprimed canvas? If so, would it be any better than what we've got now?

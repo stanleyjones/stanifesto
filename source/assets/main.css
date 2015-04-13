@@ -1,55 +1,74 @@
 html, body {
-   margin: 0 auto;
-	max-width: 45rem;
-   font: 200 22px/1.618 "Helvetica Neue", Helvetica, Arial, sans-serif;
-   color: #333;
-   background: #f8f8f8;
-   background-image: linear-gradient(to top, #f8f8f8, #ccc);
-   background-attachment: fixed;
+    margin: 0 auto;
+    max-width: 45rem;
+    font: 400 24px/1.618 "Roboto Condensed", Helvetica, Arial, sans-serif;
+    color: #333;
+    background: #fff;
+    background-image: linear-gradient(to bottom, #fff, #ccc);
+    background-attachment: fixed;
+}
+
+p {
+    margin: 1.618em 0;
+}
+
+a {
+    text-decoration: none;
+    color: currentColor;
+    font-weight: 700;
+}
+
+small {
+    font-size: 0.5em;
+    font-weight: normal;
+}
+
+hr {
+    clear: both;
+    height: 1px;
+    width: 50%;
+    margin: 0 auto;
+    border: 0;
+    background: #333;
 }
 
 body > header {
-   margin: 0 0 1rem;
-   padding: 1rem 0 0;
-}
-body > header a {
-   color: currentColor;
-}
-body > footer {
-   margin: 1rem 0 0;
-   padding: 1rem 0;
+    border-bottom: 1px solid #ccc;
 }
 
-h1 {
-   margin-bottom: 0;
-   font-weight: 100;
-}
-h2 {
-   margin-bottom: 0;
-   font-weight: 400;
-}
-h2, h6 {
-   margin-top: 0;
-}
-h6 {
-   font-weight: 200;
-}
-a {
-   text-decoration: none;
+body > header,
+body > footer {
+    padding: 1rem 0;
 }
 
 article > header h1 {
-   font-size: 3rem;
-   line-height: 1;
-   margin: 3rem 0;
+    font-size: 3rem;
+    line-height: 1;
+    margin: 3rem 0;
+}
+
+article > header time {
+    color: #ccc;
+}
+
+article img {
+    max-width: 50%;
+}
+
+article img:nth-of-type(odd) {
+    float: left;
+    margin: 1rem 1rem 1rem 0;
+}
+
+article img:nth-of-type(even) {
+    float: right;
+    margin: 1rem 0 1rem 1rem;
 }
 
 main > ul {
-   list-style: none;
-   padding-left: 0;
+    list-style: none;
+    padding-left: 0;
 }
 main > ul li {
-   border-left: 1px solid;
-   padding-left: 1rem;
-   /*margin-bottom: 1rem;*/
+    transition: color 1s;
 }

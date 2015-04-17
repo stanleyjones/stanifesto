@@ -12,14 +12,14 @@ I should be happy about people adapting their buying habits to incorporate solut
 The term "<a href="http://en.wikipedia.org/wiki/Conspicuous_consumption" title="'Conspicuous Consumption' on Wikipedia">Conspicuous Consumption</a>" was coined in 1899 to describe (with no small amount of disdain) the buying patterns of the <i><a href="http://en.wikipedia.org/wiki/Nouveau_riche" title="'Nouveau Riche' on Wikipedia">Nouveau Riche</a></i>. They suddenly had lots of money and wanted to let everyone know. Huge cars, lavish mansions, fur coats, <a href="http://www.youtube.com/watch?v=UBXNssiRoT4" title="Chapelle's Crib on YouTube">sparklin' dookie</a>, etc.
 
 <div class="pullquote" style="float:right; text-align:center;">
-<img class="content" src="/wp-content/uploads/2006/10/vanityfairgreenissue.jpg" alt="Vanity Fair Green Issue" />
+<img class="content" src="http://assets.stanifesto.com/images/2006/10/vanityfairgreenissue.jpg" alt="Vanity Fair Green Issue" />
 <p class="small">Who's sexier: George Cloonery or Al Gore?</p>
 </div>
 
 The same thing seems to be happening with the trend-setting <a href="http://www.creativeclass.org/_flight_riseoverview.shtml" title="'Rise of the Creative Class' by Richard Florida">creative class</a> in the present day. These Nouveau Righteous have developed a conscience and, by god, they're going to let people know. Fashion magazines this summer were abuzz with the new "Eco-Chic" trend (as opposed to <a href="http://www.eco-chick.com/" title="Eco-Chick.com, paragon of green fashion">Eco-Chick</a>, which is always in season). Everyone was checking labels to make sure they were toting certified organic, sustainably cultivated, fair-trade clutch bags that really reflected their worldly values on the way to the plastic surgeon for lipo, in their Hummer.
 
 <div class="pullquote" style="float:left; text-align:center;">
-<img class="content" src="/wp-content/uploads/2006/10/ellegreenissue.jpg" alt="Elle Green Issue" />
+<img class="content" src="http://assets.stanifesto.com/images/2006/10/ellegreenissue.jpg" alt="Elle Green Issue" />
 <p class="small">Evangeline Lilly thinks you should wear more hemp.</p>
 </div>
 
@@ -32,7 +32,7 @@ The (RED)<sup>TM</sup> campaign (yes, they've trademarked the term "(RED)") has 
 Does that read like a protection racket to anybody else? "Hey kid, buy this iPod or Africans die. I could help 'em out y'know, all you gotta do is buy this iPod. C'mon, you wouldn't want anything bad should happen." This is strange to me, because the (RED)<sup>TM</sup> products seem to be priced exactly the same as their non-African saving contemporaries, what kind of "business model" is that?
 
 <div class="pullquote" style="float:right; text-align:center;">
-<img class="content" src="/wp-content/uploads/2006/10/bonoandoprah.jpg" alt="Oprah and Bono go shopping." />
+<img class="content" src="http://assets.stanifesto.com/images/2006/10/bonoandoprah.jpg" alt="Oprah and Bono go shopping." />
 <p class="small">The new face of activism?</p>
 </div>
 

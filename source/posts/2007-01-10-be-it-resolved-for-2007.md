@@ -14,7 +14,7 @@ New Year's Eve itself I spent <a href="http://www.sunshocked.com/stanifesto/arch
 As the buzz of the New Year is coming to an end, the real work must begin in earnest. As I mentioned before, I normally actually do whatever it is that I resolve to do on New Year's. In the past I have decided to <a href="http://sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2007/01/10/notes011007.DTL" title="'Tofu will make you gay' on SFGate">go vegetarian</a>, <a href="http://www.suntimes.com/news/education/173940,CST-NWS-leave15.article" title="Sorry Dad...">leave Indiana</a>, and <a href="http://www.amazon.com/This-Not-Rave-Shadow-Subculture/dp/1560253959" title="I'm quoted in this one...">throw a rave</a>. Done, done, and done.
 
 <div class="pullquote" style="float:right; text-align:center;">
-<img class="content" src="/wp-content/uploads/2007/01/resolutionlasers.jpg" alt="Raving in 2000" />
+<img class="content" src="http://assets.stanifesto.com/images/2007/01/resolutionlasers.jpg" alt="Raving in 2000" />
 <p class="small">My 2000 resolution, coming true.</p>
 </div>
 
@@ -27,7 +27,7 @@ On the money front, I'm using IGG's <a href="http://www.iggsoftware.com/ibank/" 
 My final New Year's Resolution declared me instead of me declaring it (which sounds like one of those "In Soviet Russia..." jokes). I was hitting the snooze bar on my alarm clock&mdash;which I've done consistently since my mom stopped waking me up&mdash;and I noticed that my alarm clock didn't <em>have</em> a snooze bar. It quite clearly has a "drowse" bar.
 
 <div class="pullquote" style="float:right; text-align:center;">
-<img class="content" src="/wp-content/uploads/2007/01/drowsebutton.jpg" alt="Hit the drowse button" />
+<img class="content" src="http://assets.stanifesto.com/images/2007/01/drowsebutton.jpg" alt="Hit the drowse button" />
 <p class="small">Sometimes we hit the ones we love.</p>
 </div>
 

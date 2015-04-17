@@ -12,7 +12,7 @@ I just signed up for two accounts. One at <a href="http://uselessaccount.com/" t
 Just to set the stage, I'm a bit of a social networking site junkie. I belong to far too many of them, mostly for "research purposes" since I'm a web designer myself. Note the quote marks around "research purposes", stretching them across the gamut of "interesting use of tag-based <a href="http://en.wikipedia.org/wiki/Folksonomy" title="Folksonomy on Wikipedia">folksonomies</a> here, I'll make a note of that" to "dear lord, that's what 19-year olds are wearing these days?" Luckily I don't have enough time to spend on any one of them to do too much research.
 
 <div class="pullquote" style="float:right; text-align:center;">
-<img class="content" src="/wp-content/uploads/2007/02/socialsites.jpg" alt="Some bookmarks" />
+<img class="content" src="http://assets.stanifesto.com/images/2007/02/socialsites.jpg" alt="Some bookmarks" />
 <p class="small">An elite list of bookmarks.</p>
 </div>
 

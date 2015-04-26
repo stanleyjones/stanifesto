@@ -1,5 +1,6 @@
 html, body {
     margin: 0 auto;
+    padding: 0 10px;
     max-width: 45rem;
     font: 400 24px/1.618 "Roboto Condensed", Helvetica, Arial, sans-serif;
     color: #333;
@@ -63,6 +64,13 @@ article img:nth-of-type(odd) {
 article img:nth-of-type(even) {
     float: right;
     margin: 1rem 0 1rem 1rem;
+}
+
+article blockquote {
+    margin-left: 0;
+    padding-left: 2em;
+    border-left: 3px solid #ccc;
+    font-style: italic;
 }
 
 main > ul {

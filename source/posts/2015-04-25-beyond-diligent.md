@@ -4,7 +4,7 @@ date: 2015-04-25
 template: post.hbs
 ---
 
-I've read enough "I'm Quitting My Startup" posts to know how they go. They start by congratulating everyone's hard work, then thank the users for making the community what it is today, and conclude with either that the company couldn't find a way to be profitable or that the company is being acquired but that everything will stay the same.
+I've read enough "I'm Quitting My Startup" posts to know the structure. They start by congratulating everyone's hard work, then thank the users for making the community what it is today, and conclude with either that the company couldn't find a way to be profitable or that the company is being acquired but that everything will stay the same.
 
 This is not one of those posts. It's half a year after I closed down Diligent and I'm not announcing anything, thanking anyone, or promising anything.
 

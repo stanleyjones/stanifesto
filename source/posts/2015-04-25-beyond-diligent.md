@@ -60,7 +60,7 @@ Obviously, it didn't. Not because the website didn't do its job, it did. Or beca
 
 The truth is, there is no profit center in a non-profit. No equity. No exit strategy. There's just smart, creative people doing their very best to make their world a better place than yesterday, fighting for scraps of foundation grants or membership dues, and making deep life sacrifices so they can do it again tomorrow.
 
-That life, and not Diligent, is what I now realize I gave up on. I still want to save the world, sure. Who doesn't. I also want to send my daughter to college. To own my own house so I don't get evicted and be forced to leave the place I love. To join a gym so I can take care of my body and not workout with rusty dumbbells in the basement.
+That life, and not Diligent, is what I now realize I gave up on. I still want to save the world, sure. Who doesn't? I also want to send my daughter to college. To own my own house so I don't get evicted and be forced to leave the place I love. To join a gym so I can take care of my body and not workout with rusty dumbbells in the basement.
 
 Everybody works hard. Everybody deserves these things. Luckily, I know the hottest programming language so---for a pretty arbitrary reason---I get them. The truth of it makes me feel guilty, but also determined to find the best way to use the privilege I'm afforded.
 

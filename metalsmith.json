@@ -23,12 +23,12 @@
     "metalsmith-permalinks": {
       "pattern": ":title"
     },
-    "metalsmith-templates": {
+    "metalsmith-layouts": {
       "engine": "handlebars",
-      "partials": {
-        "header": "partials/header",
-        "footer": "partials/footer"
-      }
+      "partials": "./templates/partials"
+    },
+    "metalsmith-in-place": {
+      "engine": "handlebars"
     }
   }
 }

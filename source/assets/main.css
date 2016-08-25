@@ -2,10 +2,10 @@ html, body {
     margin: 0 auto;
     padding: 0 10px;
     max-width: 45rem;
-    font: 400 24px/1.618 "Roboto Condensed", Helvetica, Arial, sans-serif;
+    font: 300 24px/1.618 "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #333;
     background: #fff;
-    background-image: linear-gradient(to bottom, #fff, #ccc);
+    background-image: linear-gradient(to right bottom, #fff, #ccc);
     background-attachment: fixed;
 }
 
@@ -15,8 +15,13 @@ p {
 
 a {
     text-decoration: none;
+    border-bottom: 1px solid currentColor;
     color: currentColor;
-    font-weight: 700;
+}
+
+header a,
+main h2 a {
+    border-bottom: none;
 }
 
 small {
@@ -31,15 +36,6 @@ hr {
     margin: 0 auto;
     border: 0;
     background: #333;
-}
-
-body > header {
-    border-bottom: 1px solid #ccc;
-}
-
-body > header,
-body > footer {
-    padding: 1rem 0;
 }
 
 article > header h1 {
@@ -77,6 +73,18 @@ main > ul {
     list-style: none;
     padding-left: 0;
 }
+
 main > ul li {
+    display: inline;
     transition: color 1s;
+}
+
+main > ul li:after {
+    content: "/";
+    color: #333;
+    font-size: 1.5em;
+}
+
+main > ul li h2 {
+    display: inline;
 }

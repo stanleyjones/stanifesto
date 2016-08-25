@@ -1,7 +1,7 @@
 ---
 title: The mathematics of fantasy
 slug: the-mathematics-of-fantasy
-template: post.hbs
+layout: post.hbs
 date: 2007-03-02T08:00:36.000Z
 date_updated:   2013-10-21T22:09:02.888Z
 tags: text, abstraction, comics, fantasy, literature, logic, masking, reality

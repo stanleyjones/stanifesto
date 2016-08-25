@@ -1,7 +1,7 @@
 ---
 title: Apartment hunting in San Francisco
 slug: apartment-hunting-in-san-francisco
-template: post.hbs
+layout: post.hbs
 date: 2007-06-07T08:26:00.000Z
 date_updated:   2013-10-21T22:09:02.941Z
 tags: text, apartment, craigslist, google, housing maps, rss, san francisco, street view

@@ -1,7 +1,7 @@
 ---
 title: Your mommy funds Right Wing hit jobs
 slug: your-mommy-funds-right-wing-hit-jobs
-template: post.hbs
+layout: post.hbs
 date: 2007-08-27T08:00:50.000Z
 date_updated:   2013-10-21T22:09:02.956Z
 tags: text, activism, alf, animal rights, cei, movies, peta, pr, shac, spectrum

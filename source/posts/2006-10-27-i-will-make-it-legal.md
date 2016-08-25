@@ -1,7 +1,7 @@
 ---
 title: I will make it legal
 slug: i-will-make-it-legal
-template: post.hbs
+layout: post.hbs
 date: 2006-10-27T22:13:41.000Z
 date_updated:   2013-10-21T22:09:02.808Z
 tags: text, activism, drugs, evolution, language, law, logic, politics

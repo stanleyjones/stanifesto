@@ -1,7 +1,7 @@
 ---
 title: Accountability for non-profits
 slug: accountability-for-non-profits
-template: post.hbs
+layout: post.hbs
 date: 2007-06-09T10:14:44.000Z
 date_updated:   2013-10-21T22:09:02.942Z
 tags: text, accountability, activism, capitalism, management, non-profit, ran, twitter

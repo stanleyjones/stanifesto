@@ -1,7 +1,7 @@
 ---
 title: When the going gets tough, the tough go Green
 slug: when-the-going-gets-tough-the-tough-go-green
-template: post.hbs
+layout: post.hbs
 date: 2006-08-02T21:14:17.000Z
 date_updated:   2013-10-21T22:09:02.767Z
 tags: text, ethics, green, neutrality, politics, santorum, war

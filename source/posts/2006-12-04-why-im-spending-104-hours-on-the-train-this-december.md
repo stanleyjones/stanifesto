@@ -1,7 +1,7 @@
 ---
 title: Why I'm spending 104 hours on the train this December
 slug: why-im-spending-104-hours-on-the-train-this-december
-template: post.hbs
+layout: post.hbs
 date: 2006-12-04T08:00:04.000Z
 date_updated:   2013-10-21T22:09:02.826Z
 tags: text, energy, green, holidays, train, transportation

@@ -1,7 +1,7 @@
 ---
 title: Branding and scarcity
 slug: branding-and-scarcity
-template: post.hbs
+layout: post.hbs
 date: 2007-05-25T08:00:28.000Z
 date_updated:   2013-10-21T22:09:02.932Z
 tags: text, advertising, branding, economics, findability, foraging, internet, scarcity

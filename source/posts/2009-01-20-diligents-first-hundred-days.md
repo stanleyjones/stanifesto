@@ -1,7 +1,7 @@
 ---
 title: Diligent's First Hundred Days
 slug: diligents-first-hundred-days
-template: post.hbs
+layout: post.hbs
 date: 2009-01-20T17:38:04.000Z
 date_updated:   2013-10-21T22:09:02.982Z
 tags: text, business, design, diligent

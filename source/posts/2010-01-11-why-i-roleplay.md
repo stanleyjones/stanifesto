@@ -1,7 +1,7 @@
 ---
 title: Why I roleplay
 slug: why-i-roleplay
-template: post.hbs
+layout: post.hbs
 date: 2010-01-11T17:00:39.000Z
 date_updated:   2013-10-21T22:09:03.012Z
 tags: text, creativity, gurps, perspective, roleplaying, ruby on rails

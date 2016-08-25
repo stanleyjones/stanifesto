@@ -1,7 +1,7 @@
 ---
 title: Chillin' like a villain
 slug: chillin-like-a-villain
-template: post.hbs
+layout: post.hbs
 date: 2007-05-07T08:00:42.000Z
 date_updated:   2013-10-21T22:09:02.923Z
 tags: text, activism, climate, film, pr, san francisco, sfiff

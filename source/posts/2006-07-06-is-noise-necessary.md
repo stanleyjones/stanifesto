@@ -1,7 +1,7 @@
 ---
 title: Is noise necessary?
 slug: is-noise-necessary
-template: post.hbs
+layout: post.hbs
 date: 2006-07-06T21:29:08.000Z
 date_updated:   2013-10-21T22:09:02.751Z
 tags: text, art, chaos, evolution, noise, wabi-sabi

@@ -1,7 +1,7 @@
 ---
 title: I am Time's Person of the Year, finally
 slug: i-am-times-person-of-the-year-finally
-template: post.hbs
+layout: post.hbs
 date: 2006-12-20T08:00:13.000Z
 date_updated:   2013-10-21T22:09:02.852Z
 tags: text, blogs, democracy, grassroots, internet, myspace, web2.0, youtube

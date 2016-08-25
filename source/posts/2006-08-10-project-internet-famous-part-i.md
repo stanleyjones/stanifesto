@@ -1,7 +1,7 @@
 ---
 title: "Project Internet Famous: Part I"
 slug: project-internet-famous-part-i
-template: post.hbs
+layout: post.hbs
 date: 2006-08-11T06:00:55.000Z
 date_updated:   2013-10-21T22:09:02.774Z
 tags: text, 43things, blogs, consumating, creative commons, dodgeball, san francisco, web2.0

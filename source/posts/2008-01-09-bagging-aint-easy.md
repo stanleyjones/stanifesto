@@ -1,7 +1,7 @@
 ---
 title: Bagging ain't easy
 slug: bagging-aint-easy
-template: post.hbs
+layout: post.hbs
 date: 2008-01-09T21:50:41.000Z
 date_updated:   2013-10-21T22:09:02.964Z
 tags: text, bluetooth, design, douchebag, fashion, handset, invention, ring

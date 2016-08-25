@@ -1,7 +1,7 @@
 ---
 title: "Stan in Japan: Chapter VI"
 slug: stan-in-japan-chapter-vi
-template: post.hbs
+layout: post.hbs
 date: 2006-11-19T08:00:05.000Z
 date_updated:   2013-10-21T22:09:02.822Z
 tags: video, japan, travel

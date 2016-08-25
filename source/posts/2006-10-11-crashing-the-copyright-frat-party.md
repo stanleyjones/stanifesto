@@ -1,7 +1,7 @@
 ---
 title: Crashing the copyright frat party
 slug: crashing-the-copyright-frat-party
-template: post.hbs
+layout: post.hbs
 date: 2006-10-11T08:00:49.000Z
 date_updated:   2013-10-21T22:09:02.799Z
 tags: text, apple, copyright, creative commons, drm, revver, riaa, sony, youtube

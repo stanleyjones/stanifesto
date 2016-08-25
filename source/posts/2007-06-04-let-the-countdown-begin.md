@@ -1,7 +1,7 @@
 ---
 title: Let the countdown begin
 slug: let-the-countdown-begin
-template: post.hbs
+layout: post.hbs
 date: 2007-06-04T08:30:31.000Z
 date_updated:   2013-10-21T22:09:02.936Z
 tags: text, anniversary, blogs, holidays, numerology, stanifesto, theme

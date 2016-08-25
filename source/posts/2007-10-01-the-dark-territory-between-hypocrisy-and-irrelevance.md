@@ -1,7 +1,7 @@
 ---
 title: The dark territory between hypocrisy and irrelevance
 slug: the-dark-territory-between-hypocrisy-and-irrelevance
-template: post.hbs
+layout: post.hbs
 date: 2007-10-01T08:15:01.000Z
 date_updated:   2013-10-21T22:09:02.960Z
 tags: text, act now, activism, censorship, china, fast company, greenpeace, sf weekly, werbach

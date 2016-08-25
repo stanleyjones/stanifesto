@@ -1,7 +1,7 @@
 ---
 title: Market corrections
 slug: market-corrections
-template: post.hbs
+layout: post.hbs
 date: 2008-09-22T14:45:41.000Z
 date_updated:   2013-10-21T22:09:02.971Z
 tags: text, childbirth, economics, food, internet, network, optimism, politics, seo

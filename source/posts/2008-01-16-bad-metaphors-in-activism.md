@@ -1,7 +1,7 @@
 ---
 title: Bad metaphors in activism
 slug: bad-metaphors-in-activism
-template: post.hbs
+layout: post.hbs
 date: 2008-01-16T19:18:36.000Z
 date_updated:   2013-10-21T22:09:02.965Z
 tags: text, activism, fruit, language, lycanthropy, metaphor, radical, trees, werewolves

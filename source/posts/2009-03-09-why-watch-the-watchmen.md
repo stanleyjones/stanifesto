@@ -1,7 +1,7 @@
 ---
 title: Why watch the Watchmen?
 slug: why-watch-the-watchmen
-template: post.hbs
+layout: post.hbs
 date: 2009-03-09T08:00:33.000Z
 date_updated:   2013-10-21T22:09:02.985Z
 tags: text, alan moore, comics, evil, sex, watchmen

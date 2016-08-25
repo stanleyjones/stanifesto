@@ -1,7 +1,7 @@
 ---
 title: The DIY Revolution
 slug: the-diy-revolution
-template: post.hbs
+layout: post.hbs
 date: 2007-05-21T08:00:08.000Z
 date_updated:   2013-10-21T22:09:02.930Z
 tags: text, bay-to-breakers, diy, maker faire, revolution, san francisco, steampunk

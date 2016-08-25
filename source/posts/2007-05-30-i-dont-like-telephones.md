@@ -1,7 +1,7 @@
 ---
 title: I don't like telephones
 slug: i-dont-like-telephones
-template: post.hbs
+layout: post.hbs
 date: 2007-05-30T08:00:38.000Z
 date_updated:   2013-10-21T22:09:02.935Z
 tags: text, blogs, communication, email, messaging, telephone, twitter

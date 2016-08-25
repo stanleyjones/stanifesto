@@ -1,7 +1,7 @@
 ---
 title: Don't treat the web like stop-and-go traffic
 slug: dont-treat-the-web-like-stop-and-go-traffic
-template: post.hbs
+layout: post.hbs
 date: 2012-11-01T18:51:27.000Z
 date_updated:   2012-11-01T18:51:27.000Z
 ---

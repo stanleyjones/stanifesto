@@ -1,7 +1,7 @@
 ---
 title: Mission-driven online strategy
 slug: mission-driven-online-strategy
-template: post.hbs
+layout: post.hbs
 date: 2009-04-16T14:53:37.000Z
 date_updated:   2013-10-21T22:09:02.992Z
 tags: text, activism, granularity, internet, non-profit, sincerity, strategy, sxsw

@@ -1,7 +1,7 @@
 ---
 title: Updating the Capitalist Operating System
 slug: updating-the-capitalist-operating-system
-template: post.hbs
+layout: post.hbs
 date: 2006-08-23T13:07:41.000Z
 date_updated:   2013-10-21T22:09:02.782Z
 tags: text, activism, adbusters, capitalism, economics, evolution, open source, revolution

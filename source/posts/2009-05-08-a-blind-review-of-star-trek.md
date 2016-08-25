@@ -1,7 +1,7 @@
 ---
 title: A blind review of Star Trek
 slug: a-blind-review-of-star-trek
-template: post.hbs
+layout: post.hbs
 date: 2009-05-08T12:41:07.000Z
 date_updated:   2013-10-21T22:09:03.004Z
 tags: text, battlestar galactica, jj abrams, science-fiction, star trek, wall-e

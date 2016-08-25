@@ -1,7 +1,7 @@
 ---
 title: Metallica's SEO
 slug: metallicas-seo
-template: post.hbs
+layout: post.hbs
 date: 2009-04-24T10:08:02.000Z
 date_updated:   2013-10-21T22:09:02.997Z
 tags: text, analytics, charts, google, metallica, seo

@@ -1,7 +1,7 @@
 ---
 title: Putting the McGenie back in the McBottle
 slug: putting-the-mcgenie-back-in-the-mcbottle
-template: post.hbs
+layout: post.hbs
 date: 2007-03-23T08:00:23.000Z
 date_updated:   2013-10-21T22:09:02.910Z
 tags: text, branding, dictionary, language, mcdonalds, mcjob

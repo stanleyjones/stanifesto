@@ -1,7 +1,7 @@
 ---
 title: The brand of smoking
 slug: the-brand-of-smoking
-template: post.hbs
+layout: post.hbs
 date: 2008-10-27T21:23:03.000Z
 date_updated:   2013-10-21T22:09:02.980Z
 tags: text, branding, cigarettes, design, health, mad men, politics

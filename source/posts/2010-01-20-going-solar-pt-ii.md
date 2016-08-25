@@ -1,7 +1,7 @@
 ---
 title: Going solar, pt. II
 slug: going-solar-pt-ii
-template: post.hbs
+layout: post.hbs
 date: 2010-01-20T16:00:09.000Z
 date_updated:   2013-10-21T22:09:03.016Z
 tags: text, batteries, diy, energy, solar, wires

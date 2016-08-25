@@ -1,7 +1,7 @@
 ---
 title: Papyrus and the sociology of typography
 slug: papyrus-and-the-sociology-of-typography
-template: post.hbs
+layout: post.hbs
 date: 2006-11-10T05:29:55.000Z
 date_updated:   2013-10-21T22:09:02.815Z
 tags: text, design, google, papyrus, sociology, typography

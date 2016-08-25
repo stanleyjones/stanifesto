@@ -1,7 +1,7 @@
 ---
 title: Tips for smart webmastering
 slug: tips-for-smart-webmastering
-template: post.hbs
+layout: post.hbs
 date: 2007-01-17T08:00:40.000Z
 date_updated:   2013-10-21T22:09:02.862Z
 tags: text, apple, coffee, design, findability, moleskine, space pen, unix

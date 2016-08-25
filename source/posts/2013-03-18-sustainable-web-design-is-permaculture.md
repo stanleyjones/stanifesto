@@ -1,7 +1,7 @@
 ---
 title: Sustainable web design is permaculture
 slug: sustainable-web-design-is-permaculture
-template: post.hbs
+layout: post.hbs
 date: 2013-03-19T05:31:46.000Z
 date_updated:   2013-03-19T20:40:34.000Z
 ---

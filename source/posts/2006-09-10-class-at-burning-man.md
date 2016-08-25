@@ -1,7 +1,7 @@
 ---
 title: Class at Burning Man
 slug: class-at-burning-man
-template: post.hbs
+layout: post.hbs
 date: 2006-09-10T23:53:20.000Z
 date_updated:   2013-10-21T22:09:02.786Z
 tags: text, anti-oppression, burning man, class, politics, utopia

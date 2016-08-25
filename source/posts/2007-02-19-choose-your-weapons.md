@@ -1,7 +1,7 @@
 ---
 title: Choose your weapons
 slug: choose-your-weapons
-template: post.hbs
+layout: post.hbs
 date: 2007-02-19T08:29:20.000Z
 date_updated:   2013-10-21T22:09:02.879Z
 tags: text, design, fonts, microsoft, typography

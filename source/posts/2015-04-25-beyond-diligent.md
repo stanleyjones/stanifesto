@@ -1,7 +1,7 @@
 ---
 title: Beyond Diligent
 date: 2015-04-25
-template: post.hbs
+layout: post.hbs
 ---
 
 I've read enough "I'm Quitting My Startup" posts to know the structure. They start by congratulating everyone's hard work, then thank the users for making the community what it is today, and conclude with either that the company couldn't find a way to be profitable or that the company is being acquired but that everything will stay the same.

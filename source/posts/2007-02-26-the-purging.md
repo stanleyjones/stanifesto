@@ -1,7 +1,7 @@
 ---
 title: The purging
 slug: the-purging
-template: post.hbs
+layout: post.hbs
 date: 2007-02-26T08:00:51.000Z
 date_updated:   2013-10-21T22:09:02.885Z
 tags: text, community, noise, web2.0

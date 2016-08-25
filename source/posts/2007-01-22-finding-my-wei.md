@@ -1,7 +1,7 @@
 ---
 title: Finding my Wei
 slug: finding-my-wei
-template: post.hbs
+layout: post.hbs
 date: 2007-01-22T08:00:02.000Z
 date_updated:   2013-10-21T22:09:02.865Z
 tags: text, language, religion, tao, translation, wu-wei

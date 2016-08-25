@@ -1,7 +1,7 @@
 ---
 title: Setting sail for the Pirate Bay
 slug: setting-sail-for-the-pirate-bay
-template: post.hbs
+layout: post.hbs
 date: 2006-11-01T08:00:44.000Z
 date_updated:   2013-10-21T22:09:02.811Z
 tags: text, bittorrent, copyright, digg, ethics, law, mpaa, pirate, riaa

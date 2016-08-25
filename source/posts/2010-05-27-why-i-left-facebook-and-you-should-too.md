@@ -1,7 +1,7 @@
 ---
 title: Why I left Facebook (and you should, too)
 slug: why-i-left-facebook-and-you-should-too
-template: post.hbs
+layout: post.hbs
 date: 2010-05-27T16:52:10.000Z
 date_updated:   2013-10-21T22:09:03.019Z
 tags: text, facebook, internet, privacy, social networks

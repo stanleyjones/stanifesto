@@ -1,7 +1,7 @@
 ---
 title: 10 reasons it's okay to go ahead and hate MySpace
 slug: 10-reasons-its-okay-to-go-ahead-and-hate-myspace
-template: post.hbs
+layout: post.hbs
 date: 2006-09-13T08:00:26.000Z
 date_updated:   2013-10-21T22:09:02.788Z
 tags: text, design, internet, myspace, web2.0

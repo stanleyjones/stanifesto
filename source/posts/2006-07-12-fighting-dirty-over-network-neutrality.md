@@ -1,7 +1,7 @@
 ---
 title: Fighting dirty over network neutrality
 slug: fighting-dirty-over-network-neutrality
-template: post.hbs
+layout: post.hbs
 date: 2006-07-12T22:07:09.000Z
 date_updated:   2013-10-21T22:09:02.758Z
 tags: text, grassroots, internet, neutrality, pr, think tank

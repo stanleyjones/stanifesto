@@ -1,7 +1,7 @@
 ---
 title: "Stan in Japan: Chapter III"
 slug: stan-in-japan-chapter-iii
-template: post.hbs
+layout: post.hbs
 date: 2006-11-15T08:00:53.000Z
 date_updated:   2013-10-21T22:09:02.818Z
 tags: video, fashion, japan, language, san francisco, travel

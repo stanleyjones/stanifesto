@@ -1,7 +1,7 @@
 ---
 title: Scary harbingers of an internet controlled by Comcast
 slug: scary-harbingers-of-an-internet-controlled-by-comcast
-template: post.hbs
+layout: post.hbs
 date: 2006-08-07T06:00:10.000Z
 date_updated:   2013-10-21T22:09:02.771Z
 tags: text, diversity, internet, neutrality, tech support, telecommunications

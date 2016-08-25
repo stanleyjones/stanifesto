@@ -1,7 +1,7 @@
 ---
 title: Rudy Giuliani - "Be Afraid"
 slug: rudy-giuliani-be-afraid
-template: post.hbs
+layout: post.hbs
 date: 2008-01-04T02:30:00.000Z
 date_updated:   2013-10-21T22:09:02.963Z
 tags: text, chuck norris, codepink, petition, planet of the arabs, politics, racism, rudy giuliani

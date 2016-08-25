@@ -1,7 +1,7 @@
 ---
 title: Life and Death
 slug: life-and-death
-template: post.hbs
+layout: post.hbs
 date: 2011-10-06T09:16:05.000Z
 date_updated:   2013-10-21T22:09:03.023Z
 tags: text, apple, death, family, life, steve jobs

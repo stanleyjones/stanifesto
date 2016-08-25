@@ -1,7 +1,7 @@
 ---
 title: What can Blue do for you?
 slug: what-can-blue-do-for-you
-template: post.hbs
+layout: post.hbs
 date: 2008-04-14T08:00:14.000Z
 date_updated:   2013-10-21T22:09:02.967Z
 tags: text, adam werbach, blue, environmentalism, green, sustainability, van jones

@@ -1,7 +1,7 @@
 ---
 title: Bedlam as a business model
 slug: bedlam-as-a-business-model
-template: post.hbs
+layout: post.hbs
 date: 2006-09-25T08:09:29.000Z
 date_updated:   2013-10-21T22:09:02.797Z
 tags: text, anarchy, brainstorming, capitalism, chaos, google, noise

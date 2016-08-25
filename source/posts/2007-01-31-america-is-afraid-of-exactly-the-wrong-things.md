@@ -1,7 +1,7 @@
 ---
 title: America is afraid of exactly the wrong things
 slug: america-is-afraid-of-exactly-the-wrong-things
-template: post.hbs
+layout: post.hbs
 date: 2007-01-31T08:00:40.000Z
 date_updated:   2013-10-21T22:09:02.869Z
 tags: text, advertising, graffiti, law, pr, terrorism

@@ -1,7 +1,7 @@
 ---
 title: "Stan in Japan: Chapter V"
 slug: stan-in-japan-chapter-v
-template: post.hbs
+layout: post.hbs
 date: 2006-11-18T08:00:40.000Z
 date_updated:   2013-10-21T22:09:02.820Z
 tags: video, japan, transportation, travel

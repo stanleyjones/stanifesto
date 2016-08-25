@@ -1,7 +1,7 @@
 ---
 title: Sharing your journey is the heart of mastery
 slug: sharing-your-journey-is-the-heart-of-mastery
-template: post.hbs
+layout: post.hbs
 date: 2012-10-10T08:00:22.000Z
 date_updated:   2012-10-17T22:33:41.000Z
 ---

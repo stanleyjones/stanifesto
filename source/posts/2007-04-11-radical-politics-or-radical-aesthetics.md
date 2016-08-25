@@ -1,7 +1,7 @@
 ---
 title: Radical politics or radical aesthetics?
 slug: radical-politics-or-radical-aesthetics
-template: post.hbs
+layout: post.hbs
 date: 2007-04-11T08:04:08.000Z
 date_updated:   2013-10-21T22:09:02.916Z
 tags: text, activism, events, muse, music, politics, radical, van jones

@@ -1,7 +1,7 @@
 ---
 title: Be it resolved for 2007
 slug: be-it-resolved-for-2007
-template: post.hbs
+layout: post.hbs
 date: 2007-01-10T08:00:31.000Z
 date_updated:   2013-10-21T22:09:02.857Z
 tags: text, apple, holidays, money, resolutions, time

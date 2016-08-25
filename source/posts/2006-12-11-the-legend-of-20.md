@@ -1,7 +1,7 @@
 ---
 title: The Legend of 2.0
 slug: the-legend-of-20
-template: post.hbs
+layout: post.hbs
 date: 2006-12-11T08:00:09.000Z
 date_updated:   2013-10-21T22:09:02.844Z
 tags: text, economics, games, marketing, memes, web2.0, wii

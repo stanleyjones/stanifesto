@@ -1,7 +1,7 @@
 ---
 title: The recursive peanut gallery
 slug: the-recursive-peanut-gallery
-template: post.hbs
+layout: post.hbs
 date: 2006-08-09T06:00:14.000Z
 date_updated:   2013-10-21T22:09:02.773Z
 tags: text, craigslist, digg, diversity, internet, pr, truth

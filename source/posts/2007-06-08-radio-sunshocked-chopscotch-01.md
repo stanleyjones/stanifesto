@@ -1,7 +1,7 @@
 ---
 title: "Radio Sunshocked: Chopscotch 0.1"
 slug: radio-sunshocked-chopscotch-01
-template: post.hbs
+layout: post.hbs
 date: 2007-06-08T08:54:41.000Z
 date_updated:   2013-10-21T22:09:02.942Z
 tags: audio, apparat, comments, music, squarepusher

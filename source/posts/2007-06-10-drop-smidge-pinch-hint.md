@@ -1,7 +1,7 @@
 ---
 title: Drop, smidge, pinch, hint
 slug: drop-smidge-pinch-hint
-template: post.hbs
+layout: post.hbs
 date: 2007-06-10T20:41:48.000Z
 date_updated:   2013-10-21T22:09:02.944Z
 tags: text, clutter, cooking, language, measurement, mother

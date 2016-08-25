@@ -1,7 +1,7 @@
 ---
 title: Going solar
 slug: going-solar
-template: post.hbs
+layout: post.hbs
 date: 2008-04-28T08:00:09.000Z
 date_updated:   2013-10-21T22:09:02.968Z
 tags: text, diy, energy, environmentalism, green, solar, sustainability

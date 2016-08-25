@@ -1,7 +1,7 @@
 ---
 title: You down with OPH (other people's holidays)?
 slug: you-down-with-oph-other-peoples-holidays
-template: post.hbs
+layout: post.hbs
 date: 2006-09-18T08:00:42.000Z
 date_updated:   2013-10-21T22:09:02.794Z
 tags: text

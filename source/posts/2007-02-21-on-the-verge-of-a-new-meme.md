@@ -1,7 +1,7 @@
 ---
 title: On the verge of a new meme
 slug: on-the-verge-of-a-new-meme
-template: post.hbs
+layout: post.hbs
 date: 2007-02-21T08:00:35.000Z
 date_updated:   2013-10-21T22:09:02.882Z
 tags: text, celebrity, language, memes, movies, oscars, sex

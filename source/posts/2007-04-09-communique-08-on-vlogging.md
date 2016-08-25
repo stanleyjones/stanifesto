@@ -1,7 +1,7 @@
 ---
 title: Communique 08 On vlogging
 slug: communique-08-on-vlogging
-template: post.hbs
+layout: post.hbs
 date: 2007-04-09T08:12:03.000Z
 date_updated:   2013-10-21T22:09:02.915Z
 tags: video, anagrams, aristotle, ethics, internet, language, religion

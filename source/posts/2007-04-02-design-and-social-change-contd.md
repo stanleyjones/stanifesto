@@ -1,7 +1,7 @@
 ---
 title: Design and social change, cont'd
 slug: design-and-social-change-contd
-template: post.hbs
+layout: post.hbs
 date: 2007-04-02T08:00:17.000Z
 date_updated:   2013-10-21T22:09:02.914Z
 tags: text, activism, change, design, manifesto, truth, vision

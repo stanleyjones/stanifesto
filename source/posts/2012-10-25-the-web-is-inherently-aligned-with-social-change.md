@@ -1,7 +1,7 @@
 ---
 title: The web is inherently aligned with social change
 slug: the-web-is-inherently-aligned-with-social-change
-template: post.hbs
+layout: post.hbs
 date: 2012-10-26T06:17:52.000Z
 date_updated:   2012-10-26T06:17:52.000Z
 ---

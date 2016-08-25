@@ -1,7 +1,7 @@
 ---
 title: Epic symptom
 slug: epic-symptom
-template: post.hbs
+layout: post.hbs
 date: 2007-01-19T08:00:40.000Z
 date_updated:   2013-10-21T22:09:02.863Z
 tags: text, capitalism, marketing, movies, pirate, snakes

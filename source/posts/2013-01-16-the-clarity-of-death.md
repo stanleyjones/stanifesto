@@ -1,7 +1,7 @@
 ---
 title: The Clarity of Death
 slug: the-clarity-of-death
-template: post.hbs
+layout: post.hbs
 date: 2013-01-16T08:00:25.000Z
 date_updated:   2013-10-21T22:09:03.025Z
 tags: text, aaron swartz, activism, becky tarbotton, death, life, ran

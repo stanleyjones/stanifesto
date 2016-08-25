@@ -1,7 +1,7 @@
 ---
 title: The hardback Moleskine project
 slug: the-hardback-moleskine-project
-template: post.hbs
+layout: post.hbs
 date: 2009-03-16T08:00:34.000Z
 date_updated:   2013-10-21T22:09:02.986Z
 tags: text, diy, moleskine, post-apocalypse, vegetarian

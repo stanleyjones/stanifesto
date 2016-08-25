@@ -1,7 +1,7 @@
 ---
 title: The Pirate Archetype
 slug: the-pirate-archetype
-template: post.hbs
+layout: post.hbs
 date: 2006-07-07T14:27:51.000Z
 date_updated:   2013-10-21T22:09:02.753Z
 tags: audio, text, archetype, ethics, pirate, sxsw

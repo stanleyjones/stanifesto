@@ -1,7 +1,7 @@
 ---
 title: Fast as you can
 slug: fast-as-you-can
-template: post.hbs
+layout: post.hbs
 date: 2006-07-28T17:55:12.000Z
 date_updated:   2013-10-21T22:09:02.766Z
 tags: text, activism, fasting, iraq, peace, politics, war

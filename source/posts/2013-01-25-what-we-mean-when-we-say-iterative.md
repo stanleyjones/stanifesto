@@ -1,7 +1,7 @@
 ---
 title: What we mean when we say "iterative"
 slug: what-we-mean-when-we-say-iterative
-template: post.hbs
+layout: post.hbs
 date: 2013-01-25T23:12:46.000Z
 date_updated:   2013-09-11T20:45:49.000Z
 ---

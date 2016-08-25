@@ -1,7 +1,7 @@
 ---
 title: Five years of being Diligent
 slug: five-years-diligent
-template: post.hbs
+layout: post.hbs
 date: 2013-09-20T09:00:32.000Z
 date_updated:   2014-08-22T17:51:53.320Z
 ---

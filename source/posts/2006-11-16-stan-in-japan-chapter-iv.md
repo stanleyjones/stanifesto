@@ -1,7 +1,7 @@
 ---
 title: "Stan in Japan: Chapter IV"
 slug: stan-in-japan-chapter-iv
-template: post.hbs
+layout: post.hbs
 date: 2006-11-16T08:00:48.000Z
 date_updated:   2013-10-21T22:09:02.819Z
 tags: video, fashion, japan, language, sony, travel

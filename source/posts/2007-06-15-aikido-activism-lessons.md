@@ -1,7 +1,7 @@
 ---
 title: Aikido activism lessons
 slug: aikido-activism-lessons
-template: post.hbs
+layout: post.hbs
 date: 2007-06-15T20:14:54.000Z
 date_updated:   2013-10-21T22:09:02.950Z
 tags: text, activism, aikido, metaphor, non-violence, strategy, yes men

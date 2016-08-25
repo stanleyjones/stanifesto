@@ -1,7 +1,7 @@
 ---
 title: And we're back
 slug: and-were-back
-template: post.hbs
+layout: post.hbs
 date: 2007-08-20T08:00:14.000Z
 date_updated:   2013-10-21T22:09:02.954Z
 tags: text, color, context, design, grid, microformats, typography, wabi-sabi

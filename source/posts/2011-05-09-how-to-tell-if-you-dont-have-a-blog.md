@@ -1,7 +1,7 @@
 ---
 title: How to tell if you don't have a blog
 slug: how-to-tell-if-you-dont-have-a-blog
-template: post.hbs
+layout: post.hbs
 date: 2011-05-09T15:34:47.000Z
 date_updated:   2013-10-21T22:09:03.020Z
 tags: text, blogs, children, life, marriage

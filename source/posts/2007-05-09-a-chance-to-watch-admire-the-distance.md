@@ -1,7 +1,7 @@
 ---
 title: A chance to watch, admire the distance
 slug: a-chance-to-watch-admire-the-distance
-template: post.hbs
+layout: post.hbs
 date: 2007-05-09T08:00:01.000Z
 date_updated:   2013-10-21T22:09:02.925Z
 tags: text, art, friendship, norway, punk, sfiff

@@ -1,7 +1,7 @@
 ---
 title: A Friday the 13th nightmare becomes a Saturday the 14th dream
 slug: a-friday-the-13th-nightmare-becomes-a-saturday-the-14th-dream
-template: post.hbs
+layout: post.hbs
 date: 2006-10-14T19:02:58.000Z
 date_updated:   2013-10-21T22:09:02.801Z
 tags: text, blogs, marketing, tech support, unix, webhost

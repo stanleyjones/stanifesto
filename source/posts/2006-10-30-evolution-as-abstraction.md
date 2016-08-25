@@ -1,7 +1,7 @@
 ---
 title: Evolution as abstraction
 slug: evolution-as-abstraction
-template: post.hbs
+layout: post.hbs
 date: 2006-10-30T08:00:14.000Z
 date_updated:   2013-10-21T22:09:02.809Z
 tags: text, abstraction, evolution, politics, programming, ruby on rails

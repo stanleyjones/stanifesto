@@ -1,7 +1,7 @@
 ---
 title: The Storyteller Generation Gap
 slug: the-storyteller-generation-gap
-template: post.hbs
+layout: post.hbs
 date: 2006-08-25T14:46:32.000Z
 date_updated:   2013-10-21T22:09:02.784Z
 tags: text, activism, branding, language, politics, san francisco, smartmeme, war

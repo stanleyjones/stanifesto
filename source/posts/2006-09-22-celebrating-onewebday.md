@@ -1,7 +1,7 @@
 ---
 title: Celebrating OneWebDay
 slug: celebrating-onewebday
-template: post.hbs
+layout: post.hbs
 date: 2006-09-22T08:00:38.000Z
 date_updated:   2013-10-21T22:09:02.796Z
 tags: text, anti-oppression, diversity, grassroots, holidays, memes, noise, onewebday

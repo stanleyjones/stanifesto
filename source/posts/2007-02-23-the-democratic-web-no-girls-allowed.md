@@ -1,7 +1,7 @@
 ---
 title: "The democratic web: no girls allowed"
 slug: the-democratic-web-no-girls-allowed
-template: post.hbs
+layout: post.hbs
 date: 2007-02-23T08:00:21.000Z
 date_updated:   2013-10-21T22:09:02.883Z
 tags: text, blogs, conference, diversity, gender, internet, web2.0

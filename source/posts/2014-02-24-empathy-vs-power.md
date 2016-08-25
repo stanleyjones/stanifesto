@@ -1,7 +1,7 @@
 ---
 title: Empathy vs Power
 slug: empathy-vs-power
-template: post.hbs
+layout: post.hbs
 date: 2014-02-24T20:00:00.000Z
 date_updated:   2014-08-13T23:03:28.135Z
 tags: aikido, design, empathy, power, dick cheney

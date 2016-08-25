@@ -1,7 +1,7 @@
 ---
 title: A tale of two log-ins
 slug: a-tale-of-two-log-ins
-template: post.hbs
+layout: post.hbs
 date: 2007-02-09T08:00:07.000Z
 date_updated:   2013-10-21T22:09:02.875Z
 tags: text, activism, change, myspace, paramour, web2.0

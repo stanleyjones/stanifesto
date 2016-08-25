@@ -1,7 +1,7 @@
 ---
 title: "Stan in Japan: Chapter II"
 slug: stan-in-japan-chapter-ii
-template: post.hbs
+layout: post.hbs
 date: 2006-11-14T08:00:21.000Z
 date_updated:   2013-10-21T22:09:02.817Z
 tags: video, japan, literature, travel

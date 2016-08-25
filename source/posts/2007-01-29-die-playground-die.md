@@ -1,7 +1,7 @@
 ---
 title: Die, Playground, Die!
 slug: die-playground-die
-template: post.hbs
+layout: post.hbs
 date: 2007-01-29T08:00:17.000Z
 date_updated:   2013-10-21T22:09:02.868Z
 tags: text, art, graffiti, law, lower haight, san francisco

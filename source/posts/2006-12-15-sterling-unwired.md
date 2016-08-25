@@ -1,7 +1,7 @@
 ---
 title: Sterling Unwired
 slug: sterling-unwired
-template: post.hbs
+layout: post.hbs
 date: 2006-12-15T08:00:18.000Z
 date_updated:   2013-10-21T22:09:02.847Z
 tags: text, evolution, futurism, green, manifesto, poetry, sxsw

@@ -1,7 +1,7 @@
 ---
 title: Insincerity and air travel
 slug: insincerity-and-air-travel
-template: post.hbs
+layout: post.hbs
 date: 2007-03-09T08:00:15.000Z
 date_updated:   2013-10-21T22:09:02.892Z
 tags: text, planes, security, sincerity, travel, truth

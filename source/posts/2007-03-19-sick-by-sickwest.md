@@ -1,7 +1,7 @@
 ---
 title: Sick by Sickwest
 slug: sick-by-sickwest
-template: post.hbs
+layout: post.hbs
 date: 2007-03-19T08:00:46.000Z
 date_updated:   2013-10-21T22:09:02.909Z
 tags: text, blogs, dreams, health, illness, sxsw

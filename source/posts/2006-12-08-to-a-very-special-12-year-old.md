@@ -1,7 +1,7 @@
 ---
 title: To a very special 12-year old
 slug: to-a-very-special-12-year-old
-template: post.hbs
+layout: post.hbs
 date: 2006-12-08T08:00:38.000Z
 date_updated:   2013-10-21T22:09:02.828Z
 tags: text, activism, design, evolution, green, internet

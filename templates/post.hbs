@@ -1,11 +1,11 @@
 {{> header }}
-		<article>
-			<header>
-				<time datetime="{{ date }}">{{ date }}</time>
-				<h1>{{{ title }}}</h1>
-			</header>
-			<section>
-				{{{ contents }}}
-			</section>
-		</article>
+	<article>
+		<header>
+			<time datetime="{{ date }}">{{ dateFormat date }}</time>
+			<h1>{{{ title }}}</h1>
+		</header>
+		<section>
+			{{{ contents }}}
+		</section>
+	</article>
 {{> footer }}

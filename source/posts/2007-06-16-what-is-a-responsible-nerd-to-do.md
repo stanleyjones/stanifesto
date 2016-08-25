@@ -1,7 +1,7 @@
 ---
 title: What is a responsible nerd to do?
 slug: what-is-a-responsible-nerd-to-do
-template: post.hbs
+layout: post.hbs
 date: 2007-06-16T09:56:29.000Z
 date_updated:   2013-10-21T22:09:02.951Z
 tags: text, apple, at&amp;t, eff, fsf, greenpeace, internet, iphone, law, neutrality, nsa, politics, telecommunications

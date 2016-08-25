@@ -1,7 +1,7 @@
 ---
 title: Resisting Prop 8
 slug: resisting-prop-8
-template: post.hbs
+layout: post.hbs
 date: 2009-05-27T13:52:32.000Z
 date_updated:   2013-10-21T22:09:03.008Z
 tags: text, activism, civil disobedience, marriage, prop 8, strategy

@@ -1,7 +1,7 @@
 ---
 title: The Great American Mixing Pot
 slug: the-great-american-mixing-pot
-template: post.hbs
+layout: post.hbs
 date: 2007-08-24T08:00:27.000Z
 date_updated:   2013-10-21T22:09:02.955Z
 tags: text, amy grant, chocolate rain, diversity, music, radio, shakira, zipcar

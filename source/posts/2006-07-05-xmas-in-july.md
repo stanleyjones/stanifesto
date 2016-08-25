@@ -1,7 +1,7 @@
 ---
 title: Xmas in July
 slug: xmas-in-july
-template: post.hbs
+layout: post.hbs
 date: 2006-07-05T09:15:33.000Z
 date_updated:   2013-10-21T22:09:02.749Z
 tags: text, holidays, revolution, san francisco

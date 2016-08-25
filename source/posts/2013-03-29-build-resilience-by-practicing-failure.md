@@ -1,7 +1,7 @@
 ---
 title: Build resilience by practicing failure
 slug: build-resilience-by-practicing-failure
-template: post.hbs
+layout: post.hbs
 date: 2013-03-29T17:26:16.000Z
 date_updated:   2013-03-29T18:44:11.000Z
 ---

@@ -1,7 +1,7 @@
 ---
 title: Snakes on an authenticity crisis
 slug: snakes-on-an-authenticity-crisis
-template: post.hbs
+layout: post.hbs
 date: 2006-08-18T12:35:10.000Z
 date_updated:   2013-10-21T22:09:02.779Z
 tags: text, blogs, cluetrain, economics, grassroots, marketing, snakes

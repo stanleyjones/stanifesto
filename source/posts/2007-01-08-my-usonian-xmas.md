@@ -1,7 +1,7 @@
 ---
 title: My Usonian Xmas
 slug: my-usonian-xmas
-template: post.hbs
+layout: post.hbs
 date: 2007-01-08T08:00:33.000Z
 date_updated:   2013-10-21T22:09:02.854Z
 tags: text, america, anti-oppression, architecture, language

@@ -1,7 +1,7 @@
 ---
 title: Diligent's new digs
 slug: diligents-new-digs
-template: post.hbs
+layout: post.hbs
 date: 2009-04-01T15:09:29.000Z
 date_updated:   2013-10-21T22:09:02.989Z
 tags: text, business, diligent, lomo, minimalism, office

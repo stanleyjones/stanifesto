@@ -1,7 +1,7 @@
 ---
 title: Apple&apos;s Human Interface Guidelines
 slug: apples-human-interface-guidelines
-template: post.hbs
+layout: post.hbs
 date: 2006-07-19T14:57:09.000Z
 date_updated:   2013-10-21T22:09:02.760Z
 tags: text, apple, design, interface, pareto, sxsw

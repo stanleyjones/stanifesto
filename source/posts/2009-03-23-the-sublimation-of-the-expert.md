@@ -1,7 +1,7 @@
 ---
 title: The sublimation of The Expert
 slug: the-sublimation-of-the-expert
-template: post.hbs
+layout: post.hbs
 date: 2009-03-23T08:00:11.000Z
 date_updated:   2013-10-21T22:09:02.988Z
 tags: text, 4chan, crowds, experts, indiana jones, internet, probability, thruYOU

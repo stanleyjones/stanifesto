@@ -1,7 +1,7 @@
 ---
 title: Dreaming big means getting more done
 slug: dreaming-big-means-getting-more-done
-template: post.hbs
+layout: post.hbs
 date: 2012-10-18T08:00:44.000Z
 date_updated:   2012-10-26T06:18:18.000Z
 ---

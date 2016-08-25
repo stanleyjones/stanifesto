@@ -1,7 +1,7 @@
 ---
 title: Exxon hearts YouTube
 slug: exxon-hearts-youtube
-template: post.hbs
+layout: post.hbs
 date: 2006-08-04T15:57:31.000Z
 date_updated:   2013-10-21T22:09:02.769Z
 tags: text, big oil, myspace, pr, think tank, web2.0

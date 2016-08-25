@@ -1,7 +1,7 @@
 ---
 title: What I was missing
 slug: what-i-was-missing
-template: post.hbs
+layout: post.hbs
 date: 2007-04-27T08:16:45.000Z
 date_updated:   2013-10-21T22:09:02.921Z
 tags: text, art, climate, entertainment, festival, film, politics, san francisco, sfiff

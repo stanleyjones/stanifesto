@@ -1,7 +1,7 @@
 ---
 title: Buying American
 slug: buying-american
-template: post.hbs
+layout: post.hbs
 date: 2006-12-01T00:38:17.000Z
 date_updated:   2013-10-21T22:09:02.823Z
 tags: text, activism, america, capitalism, ford, marketing, pr, transportation

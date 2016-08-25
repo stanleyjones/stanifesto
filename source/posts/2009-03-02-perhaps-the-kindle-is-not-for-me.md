@@ -1,7 +1,7 @@
 ---
 title: Perhaps the Kindle is not for me
 slug: perhaps-the-kindle-is-not-for-me
-template: post.hbs
+layout: post.hbs
 date: 2009-03-02T22:21:31.000Z
 date_updated:   2013-10-21T22:09:02.983Z
 tags: text, amazon, buffy the vampire slayer, design, kindle

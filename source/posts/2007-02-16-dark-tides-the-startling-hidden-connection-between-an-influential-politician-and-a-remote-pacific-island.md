@@ -1,7 +1,7 @@
 ---
 title: "Dark Tides: The startling hidden connection between an influential politician and a remote Pacific island"
 slug: dark-tides-the-startling-hidden-connection-between-an-influential-politician-and-a-remote-pacific-island
-template: post.hbs
+layout: post.hbs
 date: 2007-02-16T08:00:21.000Z
 date_updated:   2013-10-21T22:09:02.877Z
 tags: text, apple, climate, gore, internet, tld, truth, tuvalu

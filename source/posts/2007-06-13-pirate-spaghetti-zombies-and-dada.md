@@ -1,7 +1,7 @@
 ---
 title: Pirate spaghetti zombies and Dada
 slug: pirate-spaghetti-zombies-and-dada
-template: post.hbs
+layout: post.hbs
 date: 2007-06-13T15:30:04.000Z
 date_updated:   2013-10-21T22:09:02.947Z
 tags: text, art, commons, dada, flying spaghetti monster, lolcat, pirate, revolution

@@ -1,7 +1,7 @@
 ---
 title: Lost in the New York mass transit labyrinth
 slug: lost-in-the-new-york-mass-transit-labyrinth
-template: post.hbs
+layout: post.hbs
 date: 2007-04-25T08:11:03.000Z
 date_updated:   2013-10-21T22:09:02.918Z
 tags: text, helvetica, holidays, lost, luggage, mass transit, mexico, new york, transportation, travel

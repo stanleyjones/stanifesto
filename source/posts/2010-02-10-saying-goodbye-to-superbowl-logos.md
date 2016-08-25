@@ -1,7 +1,7 @@
 ---
 title: Saying Goodbye to Superbowl Logos
 slug: saying-goodbye-to-superbowl-logos
-template: post.hbs
+layout: post.hbs
 date: 2010-02-10T16:04:36.000Z
 date_updated:   2013-10-21T22:09:03.017Z
 tags: text, design, logo, superbowl, typography

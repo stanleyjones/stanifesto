@@ -1,7 +1,7 @@
 ---
 title: Hotelling v. Coulter
 slug: hotelling-v-coulter
-template: post.hbs
+layout: post.hbs
 date: 2006-06-22T15:57:42.000Z
 date_updated:   2013-10-21T22:09:02.746Z
 tags: text, coulter, dean, economics, frames, hotelling, politics

@@ -1,7 +1,7 @@
 ---
 title: Obamonomyth
 slug: obamonomyth
-template: post.hbs
+layout: post.hbs
 date: 2008-10-20T16:08:46.000Z
 date_updated:   2013-10-21T22:09:02.976Z
 tags: text, archetype, campbell, memes, monomyth, obama, politics, story

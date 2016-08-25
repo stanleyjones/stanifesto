@@ -1,7 +1,7 @@
 ---
 title: My first blog post
 slug: my-first-blog-post
-template: post.hbs
+layout: post.hbs
 date: 2007-06-14T08:29:57.000Z
 date_updated:   2013-10-21T22:09:02.949Z
 tags: text, audience, blogs, depression, indiana, writing

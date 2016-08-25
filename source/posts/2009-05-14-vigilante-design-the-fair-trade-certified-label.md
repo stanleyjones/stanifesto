@@ -1,7 +1,7 @@
 ---
 title: "Vigilante Design: The Fair Trade Certified label"
 slug: vigilante-design-the-fair-trade-certified-label
-template: post.hbs
+layout: post.hbs
 date: 2009-05-14T13:22:17.000Z
 date_updated:   2013-10-21T22:09:03.006Z
 tags: text, design, fair trade, logo, vigilante design

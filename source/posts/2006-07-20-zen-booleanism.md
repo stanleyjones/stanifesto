@@ -1,7 +1,7 @@
 ---
 title: Zen Booleanism
 slug: zen-booleanism
-template: post.hbs
+layout: post.hbs
 date: 2006-07-21T06:00:36.000Z
 date_updated:   2013-10-21T22:09:02.762Z
 tags: text, logic, programming, truth, zen

@@ -1,7 +1,7 @@
 ---
 title: Mac and PC, in their own words
 slug: mac-and-pc-in-their-own-words
-template: post.hbs
+layout: post.hbs
 date: 2007-02-07T08:00:44.000Z
 date_updated:   2013-10-21T22:09:02.873Z
 tags: text, apple, copyright, drm, ipod, music, zune

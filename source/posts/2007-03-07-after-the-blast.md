@@ -1,7 +1,7 @@
 ---
 title: After the blast
 slug: after-the-blast
-template: post.hbs
+layout: post.hbs
 date: 2007-03-07T08:00:25.000Z
 date_updated:   2013-10-21T22:09:02.890Z
 tags: text, america, design, post-apocalypse, sxsw

@@ -1,7 +1,7 @@
 ---
 title: New Year's Intentions
 slug: new-years-intentions
-template: post.hbs
+layout: post.hbs
 date: 2010-01-04T18:16:48.000Z
 date_updated:   2013-10-21T22:09:03.010Z
 tags: text, 2010, internet, life, resolutions, waste

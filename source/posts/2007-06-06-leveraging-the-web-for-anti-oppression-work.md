@@ -1,7 +1,7 @@
 ---
 title: Leveraging the web for anti-oppression work
 slug: leveraging-the-web-for-anti-oppression-work
-template: post.hbs
+layout: post.hbs
 date: 2007-06-06T08:42:31.000Z
 date_updated:   2013-10-21T22:09:02.939Z
 tags: text, anti-oppression, blogs, internet, manifesto, maplight, media, netsquared, neutrality, pareto, web, zipf

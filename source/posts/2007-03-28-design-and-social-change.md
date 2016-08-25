@@ -1,7 +1,7 @@
 ---
 title: Design and social change
 slug: design-and-social-change
-template: post.hbs
+layout: post.hbs
 date: 2007-03-28T08:00:02.000Z
 date_updated:   2013-10-21T22:09:02.913Z
 tags: text, activism, change, design, manifesto, vigilantism, worldchanging

@@ -1,7 +1,7 @@
 ---
 title: "Green Issue Showdown: Creative Review vs. Common Ground"
 slug: green-issue-showdown-creative-review-vs-common-ground
-template: post.hbs
+layout: post.hbs
 date: 2007-05-14T08:00:15.000Z
 date_updated:   2013-10-21T22:09:02.929Z
 tags: text, design, earth day, green issue, greenwashing, hypocrisy, magazine, sustainability

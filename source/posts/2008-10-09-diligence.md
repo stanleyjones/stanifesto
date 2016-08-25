@@ -1,7 +1,7 @@
 ---
 title: Diligence
 slug: diligence
-template: post.hbs
+layout: post.hbs
 date: 2008-10-09T15:37:45.000Z
 date_updated:   2013-10-21T22:09:02.974Z
 tags: text, art, business, design, diligent, evolution, inspiration, process

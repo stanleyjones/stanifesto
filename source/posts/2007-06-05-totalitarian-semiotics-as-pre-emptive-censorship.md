@@ -1,7 +1,7 @@
 ---
 title: Totalitarian semiotics as pre-emptive censorship
 slug: totalitarian-semiotics-as-pre-emptive-censorship
-template: post.hbs
+layout: post.hbs
 date: 2007-06-05T08:21:52.000Z
 date_updated:   2013-10-21T22:09:02.937Z
 tags: text, activism, capitalism, censorship, comics, giuliani, language, media, revolution, spectacle

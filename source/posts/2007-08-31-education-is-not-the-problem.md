@@ -1,7 +1,7 @@
 ---
 title: Education is not the problem
 slug: education-is-not-the-problem
-template: post.hbs
+layout: post.hbs
 date: 2007-08-31T08:00:05.000Z
 date_updated:   2013-10-21T22:09:02.958Z
 tags: text, activism, aids, alienation, climate, darfur, marketing, moveon, san francisco

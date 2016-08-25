@@ -1,7 +1,7 @@
 ---
 title: The curiosity of fanatic Atheism
 slug: the-curiosity-of-fanatic-atheism
-template: post.hbs
+layout: post.hbs
 date: 2006-12-18T08:00:30.000Z
 date_updated:   2013-10-21T22:09:02.849Z
 tags: text, evolution, logic, memes, philosophy, religion, science, war

@@ -1,7 +1,7 @@
 ---
 title: Happy Birthday!
 slug: happy-birthday
-template: post.hbs
+layout: post.hbs
 date: 2007-06-17T23:22:18.000Z
 date_updated:   2013-10-21T22:09:02.953Z
 tags: text, anniversary, design, jay-z, stanifesto

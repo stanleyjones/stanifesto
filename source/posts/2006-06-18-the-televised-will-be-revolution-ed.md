@@ -1,7 +1,7 @@
 ---
 title: The televised will be revolution-ed
 slug: the-televised-will-be-revolution-ed
-template: post.hbs
+layout: post.hbs
 date: 2006-06-18T18:41:26.000Z
 date_updated:   2013-10-21T22:09:02.735Z
 tags: text, blogs, conference, revolution, san francisco

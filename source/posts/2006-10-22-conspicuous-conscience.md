@@ -1,7 +1,7 @@
 ---
 title: Conspicuous conscience
 slug: conspicuous-conscience
-template: post.hbs
+layout: post.hbs
 date: 2006-10-23T00:58:52.000Z
 date_updated:   2013-10-21T22:09:02.805Z
 tags: text, activism, apple, branding, capitalism, green, manifesto, marketing

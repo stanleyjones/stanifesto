@@ -1,7 +1,7 @@
 ---
 title: The feed-readers lament
 slug: the-feed-readers-lament
-template: post.hbs
+layout: post.hbs
 date: 2009-04-10T11:51:06.000Z
 date_updated:   2013-10-21T22:09:02.990Z
 tags: text, content, css, design, feeds, html, rss, style, typography

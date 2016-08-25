@@ -1,7 +1,7 @@
 ---
 title: Little things my mother did that made me who I am
 slug: little-things-my-mother-did-that-made-me-who-i-am
-template: post.hbs
+layout: post.hbs
 date: 2007-03-26T08:00:43.000Z
 date_updated:   2013-10-21T22:09:02.911Z
 tags: text, children, design, divorce, guns, parenting

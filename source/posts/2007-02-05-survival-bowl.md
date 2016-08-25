@@ -1,7 +1,7 @@
 ---
 title: Survival Bowl
 slug: survival-bowl
-template: post.hbs
+layout: post.hbs
 date: 2007-02-05T08:00:38.000Z
 date_updated:   2013-10-21T22:09:02.871Z
 tags: text, activism, big oil, climate, green, politics, pr, sports, think tank

@@ -1,7 +1,7 @@
 ---
 title: "Green Issue Showdown: one. vs. Creative Review"
 slug: green-issue-showdown-one-vs-creative-review
-template: post.hbs
+layout: post.hbs
 date: 2007-06-12T22:24:47.000Z
 date_updated:   2013-10-21T22:09:02.946Z
 tags: text, advertising, big oil, branding, design, energy, green, hypocrisy, magazine, sustainability

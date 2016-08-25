@@ -1,7 +1,7 @@
 ---
 title: Free to be you and me (and PHP)
 slug: free-to-be-you-and-me-and-php
-template: post.hbs
+layout: post.hbs
 date: 2006-07-01T13:16:03.000Z
 date_updated:   2013-10-21T22:09:02.748Z
 tags: text, anti-oppression, barcamp, conference, san francisco

@@ -1,7 +1,7 @@
 ---
 title: Microformatting my Addressbook
 slug: microformatting-my-addressbook
-template: post.hbs
+layout: post.hbs
 date: 2006-08-16T06:00:25.000Z
 date_updated:   2013-10-21T22:09:02.777Z
 tags: text, apple, blogs, design, microformats, programming

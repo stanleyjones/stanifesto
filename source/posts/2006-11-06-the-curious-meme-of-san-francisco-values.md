@@ -1,7 +1,7 @@
 ---
 title: The curious meme of "San Francisco Values"
 slug: the-curious-meme-of-san-francisco-values
-template: post.hbs
+layout: post.hbs
 date: 2006-11-06T08:00:56.000Z
 date_updated:   2013-10-21T22:09:02.813Z
 tags: text, apple, craigslist, diversity, flickr, google, green, memes, politics, religion, san francisco, yahoo, youtube

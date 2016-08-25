@@ -1,7 +1,7 @@
 ---
 title: Bush makes me proud to be an American
 slug: bush-makes-me-proud-to-be-an-american
-template: post.hbs
+layout: post.hbs
 date: 2006-10-18T08:00:38.000Z
 date_updated:   2013-10-21T22:09:02.803Z
 tags: text, america, democracy, holidays, law, politics

@@ -1,7 +1,7 @@
 ---
 title: The birth of a logo
 slug: the-birth-of-a-logo
-template: post.hbs
+layout: post.hbs
 date: 2007-01-15T23:39:10.000Z
 date_updated:   2013-10-21T22:09:02.859Z
 tags: text, activism, brainstorming, branding, design, grassroots, logo, process

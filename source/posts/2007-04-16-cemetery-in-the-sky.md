@@ -1,7 +1,7 @@
 ---
 title: Cemetery in the sky
 slug: cemetery-in-the-sky
-template: post.hbs
+layout: post.hbs
 date: 2007-04-16T08:00:57.000Z
 date_updated:   2013-10-21T22:09:02.917Z
 tags: text, advertising, art, billboards, brazil, graffiti, law

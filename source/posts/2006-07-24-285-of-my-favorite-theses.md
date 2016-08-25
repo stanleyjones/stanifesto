@@ -1,7 +1,7 @@
 ---
 title: 285 of my favorite Theses
 slug: 285-of-my-favorite-theses
-template: post.hbs
+layout: post.hbs
 date: 2006-07-24T22:38:37.000Z
 date_updated:   2013-10-21T22:09:02.764Z
 tags: text, activism, cluetrain, manifesto, religion, web2.0

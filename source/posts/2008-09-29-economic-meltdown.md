@@ -1,7 +1,7 @@
 ---
 title: Why I'm starting a business in the middle of an economic meltdown
 slug: economic-meltdown
-template: post.hbs
+layout: post.hbs
 date: 2008-09-29T08:00:30.000Z
 date_updated:   2013-10-21T22:09:02.972Z
 tags: text, bohemian, business, crazy, economics, recession, yawn

@@ -42,9 +42,9 @@ This also presents an opportunity to greater differentiate between Users and Pro
 
 **Klu Wants a World Without Users**
 
-The central conflict between Klu and his creator is that the former wants to create the perfect system and the latter becomes infatuated with the Iso's. That's honestly not very compelling to begin with and disappears entirely once we remove the Iso's. The movie does play with the idea of control versus spontaneity but falls short of making this the reason for Klu's falling out. It would make sense that Klu (especially when Flynn falls in love with a Program) perceives Users as the greatest threat to perfection in his system and decides to eject Flynn.
+The central conflict between Klu and his creator is that the former wants to create the perfect system and the latter becomes infatuated with the Iso's. That's honestly not very compelling to begin with and disappears entirely once we remove the Iso's. The movie does play with the idea of control versus spontaneity but falls short of making this the reason for Klu's falling out. It would make sense that Klu (especially when Flynn falls in love with a Program) perceives Users as the greatest threat to perfection in his system.
 
-Additionally, the biggest technology difference between the original Tron in 1982 and this sequel — the rise of the Internet — is conspicuously absent (although Wi-Fi does get a casual mention). It would make sense that Klu, feeling that he has fulfilled his duty of creating perfection in the current system, would want to continue his anti-User _jihad_ to other systems. Resulting in plunging the world into a pre-computer state. Flynn would want to stop this and would choose to keep The Portal closed so Klu couldn't spread.
+Additionally, the biggest technology difference between the original Tron in 1982 and this sequel — the rise of the Internet — is conspicuously absent (although Wi-Fi does get a casual mention). It would make sense that Klu, feeling that he has fulfilled his duty of creating perfection in the current system, would want to continue his anti-User _jihad_ to other systems. As this conquest would result in plunging the real world into a pre-computer state, Flynn prevents it by keeping The Portal closed so Klu can't spread.
 
 **Give Tron Something to Do**
 
@@ -56,7 +56,7 @@ The movie fails Tron is three major ways:
 
 These things could all be resolved by keeping him Tron from the beginning (complete with the original neon blue stylings). He'd stand out against the other bad guys and force the audience to wonder why somone who supposedly "fights for the Users" is aligned with Klu and the Control Programs?<sup><a href="#1">1</a></sup>
 
-The answer is that Tron believes Flynn has abandoned The Grid. He once believed in the Users but feels betrayed. This would make him immediately skeptical of Sam but also give him an arc to slowly put together clues that maybe Flynn hasn't left but has been forced into exile by Klu and ultimately regain faith by the time he's reunited with Flynn the elder. He could still play the Dragon role, but have passionate disagreements with Klu on how he's running things, only to be painfully reminded of how the Users abandoned them.
+The answer is that Tron believes Flynn has abandoned The Grid. He once believed in the Users but feels betrayed. He's immediately skeptical of Sam but slowly puts together clues that maybe Flynn's exile is self-imposed to stop Klu and ultimately regains faith. He could still play the [Dragon](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon) role, but have passionate disagreements with Klu behind closed doors, only to be painfully reminded of how misplaced his faith in Users was.
 
 **Quorra Stays to Rule The Grid**
 
@@ -66,6 +66,6 @@ Meanwhile, Sam attends his father's funeral and tells Alan he's ready to take ov
 
 ---
 
-Okay, so this is a weird post. It's my first in over a year and, despite a lot of notable things happening in my life during that time, it somehow became the thing that compelled me to write. I think I'm fine with that, because I had been making too big a deal the level of importance required to start writing posts again. So here it is. Maybe I'll do "Man of Steel" next, because that genuinely sucked and didn't need to.
+Okay, so this is a weird post. It's my first in over a year and, despite a lot of notable things happening in my life during that time, it somehow became the thing that compelled me to write. I think I'm fine with that, because I had been caught in an is-this-important-enough spiral. Maybe I'll do "Man of Steel" next, because that genuinely sucked and didn't need to.
 
 <span id="1">[1]</span> _Klu and the Control Programs_, great band name.

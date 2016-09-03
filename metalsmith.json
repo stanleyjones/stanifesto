@@ -16,9 +16,6 @@
         "sortBy": "date"
       }
     },
-    "metalsmith-feed": {
-      "collection": "posts"
-    },
     "metalsmith-register-helpers": {
       "directory": "templates/helpers"
     },
@@ -30,6 +27,9 @@
     "metalsmith-markdown": true,
     "metalsmith-permalinks": {
       "pattern": ":title"
+    },
+    "metalsmith-feed": {
+      "collection": "posts"
     },
     "metalsmith-layouts": {
       "engine": "handlebars",

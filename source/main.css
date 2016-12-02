@@ -33,7 +33,7 @@ hr {
     clear: both;
     height: 1px;
     width: 50%;
-    margin: 0 auto;
+    margin: 2rem auto;
     border: 0;
     background: #333;
 }
@@ -49,17 +49,8 @@ article > header time {
 }
 
 article img {
-    max-width: 50%;
-}
-
-article img:nth-of-type(odd) {
-    float: left;
-    margin: 1rem 1rem 1rem 0;
-}
-
-article img:nth-of-type(even) {
-    float: right;
-    margin: 1rem 0 1rem 1rem;
+    max-width: 100%;
+    margin: 1rem 0;
 }
 
 article blockquote {

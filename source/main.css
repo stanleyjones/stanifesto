@@ -53,6 +53,16 @@ article img {
     margin: 1rem 0;
 }
 
+article aside:nth-of-type(odd) {
+    float: left;
+    margin-right: 1rem;
+}
+
+article aside:nth-of-type(even) {
+    float: right;
+    margin-left: 1rem;
+}
+
 article blockquote {
     margin-left: 0;
     padding-left: 2em;

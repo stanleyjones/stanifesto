@@ -34,7 +34,9 @@ That meant beta-testing.
 
 We submitted the app for beta review on iTunes Connect and informed our carefully curated list of expert beta-testers: grandmas and grandpas, aunts and uncles, teachers, babysitters, and parents of Adela's friends. After an initial round of surprise and disbelief, the feedback started flowing in. Adela carefully considered each comment.
 
+<aside>
 ![iPhone Screenshot](http://assets.stanifesto.com/images/2016/12/iPhoneScreenshot.jpg)
+</aside>
 
 Savvy players of TriTacToe could quickly find a winning strategy and ruthlessly employ it every game. They wondered if there was anything we could offer to keep things interesting. My first thought was that [tic-tac-toe has the same problem](http://blog.ostermiller.org/tic-tac-toe-strategy) so this was just something they had to deal with. Adela's response was that we could allow players to make the board bigger than the standard 4x4 if they wanted. She actually thought you should be able to enter *any* number (like 1000) but I talked her down to 4x4, 5x5, and 6x6. We had to keep the squares "touchable", I said.
 

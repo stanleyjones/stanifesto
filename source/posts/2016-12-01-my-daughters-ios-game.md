@@ -10,6 +10,8 @@ Not many people believe that my daughter made her own iOS app. I don't blame the
 
 [It's called TriTacToe and it launched today.](https://itunes.apple.com/us/app/tritactoe/id1150863265?ls=1&mt=8)
 
+![TriTacToe Landing Page](http://assets.stanifesto.com/images/2016/12/tritactoe.jpg)
+
 "But you *actually* made it, right?" people ask me, knowing that I'm a coder and assuming that I'm being magnanimous in sharing credit. They're correct that my daughter — who is just learning to read — didn't [teach herself Objective-C](http://tryobjectivec.codeschool.com/) and the intricacies of [Xcode](https://developer.apple.com/xcode/). But they're wrong that it's not her game. It was her idea and she's made key decisions along the way to defend her vision. I'm just the engineering team.
 
 [Shigeru Miyamoto](http://www.newyorker.com/magazine/2010/12/20/master-of-play) is renown for creating classic video games like Donkey Kong, Super Mario Bros, and The Legend of Zelda. Game designer [Sid Meier](http://www.firaxis.com/?/about#legacy-2)'s name appears in titles like Sid Meier's Civilization, Sid Meier's Civilization II, and most recently Sid Meier's Civilization VI. Both of these men rely on teams of engineers to bring their vision to life. Adela is no different.

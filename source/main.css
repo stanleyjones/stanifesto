@@ -53,6 +53,10 @@ article img {
     margin: 1rem 0;
 }
 
+article aside {
+    max-width: 50%;
+}
+
 article aside:nth-of-type(odd) {
     float: left;
     margin-right: 1rem;

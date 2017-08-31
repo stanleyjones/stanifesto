@@ -51,5 +51,4 @@ And then he promptly <a href="http://www.youtube.com/watch?v=JLO1YIWQuXE">beat u
 
 </div>
 
----
-*Originally posted on [StayDiligent.com](http://staydiligent.com).*
+<small>*Originally posted on [StayDiligent.com](http://staydiligent.com).*</small>

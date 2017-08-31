@@ -32,5 +32,4 @@ At some point in your journey for knowledge, you realize that you've been concen
 
 I think I'll start a blog.
 
----
-*Originally posted on [StayDiligent.com](http://staydiligent.com).*
+<small>*Originally posted on [StayDiligent.com](http://staydiligent.com).*</small>

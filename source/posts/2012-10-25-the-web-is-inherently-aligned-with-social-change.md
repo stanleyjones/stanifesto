@@ -44,5 +44,4 @@ A client recently asked if it was possible to come back to her site in a few mon
 
 The web is inherently social, democratic, and adaptive. It strives to connect people, give them a voice, and then do it again better tomorrow. That's the kind of technology I can get behind and one I can proudly build a business on.
 
----
-*Originally posted on [StayDiligent.com](http://staydiligent.com).*
+<small>*Originally posted on [StayDiligent.com](http://staydiligent.com).*</small>

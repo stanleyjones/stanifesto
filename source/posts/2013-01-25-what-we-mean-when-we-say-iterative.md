@@ -37,5 +37,4 @@ But, since you launched each phase as it was ready and then stayed nimble and op
 
 Which is why Diligent prefers to work iteratively.
 
----
-*Originally posted on [StayDiligent.com](http://staydiligent.com).*
+<small>*Originally posted on [StayDiligent.com](http://staydiligent.com).*</small>

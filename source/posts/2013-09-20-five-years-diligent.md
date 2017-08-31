@@ -91,6 +91,4 @@ With Martha onboard, Diligent is kicking into high gear. It's a strange feeling 
 
 Sounds like we need to redesign the proposal templates.
 
----
-*Originally posted on [StayDiligent.com](http://staydiligent.com).*
-
+<small>*Originally posted on [StayDiligent.com](http://staydiligent.com).*</small>

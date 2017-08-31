@@ -42,3 +42,6 @@ The second day of Compostmodern was a workshop facilitated by Future Partners. T
 <blockquote><strong>Bet Small.</strong>
 Based on what we learn from prototyping, we help you make small bets with the people and communities who are important to the positive change you are pursuing. These small bets minimize your losses and produce insights you can gain only by going live. Ultimately small bets allow you to fail fast so you can win bigger.</blockquote>
 Structure your work so you're constantly trying things of which you're not entirely capable. That cycle of constantly trying and failing (or succeeding!) seems like perfect advice on practicing taking a punch to the face.
+
+---
+*Originally posted on [StayDiligent.com](http://staydiligent.com).*

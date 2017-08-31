@@ -36,3 +36,6 @@ And, if you had waited until every phase was complete and launched all at one wi
 But, since you launched each phase as it was ready and then stayed nimble and open to suggestions in subsequent phases, they're each a clear indication of immediate steps you can take to improve your site, increase the value you're providing to your visitors, and ultimately increase the impact of your organization.
 
 Which is why Diligent prefers to work iteratively.
+
+---
+*Originally posted on [StayDiligent.com](http://staydiligent.com).*

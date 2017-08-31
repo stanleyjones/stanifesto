@@ -31,3 +31,6 @@ As Jeffrey Way writes in <a href="https://tutsplus.com/2012/08/dont-worry-we-all
 At some point in your journey for knowledge, you realize that you've been concentrating on reaching the ever-advancing finish line and ignoring the distance you've already traveled. I've come a long way since those late nights in the college computer lab and it's time to share some of what I've learned.
 
 I think I'll start a blog.
+
+---
+*Originally posted on [StayDiligent.com](http://staydiligent.com).*

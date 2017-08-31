@@ -50,3 +50,6 @@ Wait, did I just say to redesign your website every two weeks? Yes, I did. But r
 Instead, it's time to look at everything from your website to your social media engagement to your email marketing as a permanent commitment to the health of your organization. You give your car (or bike!) tune-ups regularly to avoid costly and painful visits to the mechanic. You brush your teeth regularly to avoid costly and painful dentist appointments. And now, you give time and attention to your web presence regularly to avoid costly and painful web redesigns.
 
 So put your website in gear, keep your hands on the wheel, and your foot off the brakes. You'll be amazed what you can accomplish thanks to physics.
+
+---
+*Originally posted on [StayDiligent.com](http://staydiligent.com).*

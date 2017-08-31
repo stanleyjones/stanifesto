@@ -50,3 +50,6 @@ Or as Bruce Lee said:
 And then he promptly <a href="http://www.youtube.com/watch?v=JLO1YIWQuXE">beat up Chuck Norris.</a>
 
 </div>
+
+---
+*Originally posted on [StayDiligent.com](http://staydiligent.com).*

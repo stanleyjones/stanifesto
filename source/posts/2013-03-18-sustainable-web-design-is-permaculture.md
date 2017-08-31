@@ -68,3 +68,6 @@ Honestly, <strong>"Creatively use &amp; respond to change"</strong> should be t
 &nbsp;
 
 <em>If these ideas are something you want to talk more about with us, we will be at <a href="http://compostmodern.org/">Compostmodern</a> this Friday and Saturday. We've been going since 2008 and Stanley and Martha met for the first time at one. Or you can always reach out to us via <a href="mailto:info@diligentcreative.com">email</a> or <a href="http://twitter.com/staydiligent">Twitter</a>.</em>
+
+---
+*Originally posted on [StayDiligent.com](http://staydiligent.com).*

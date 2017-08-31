@@ -90,3 +90,7 @@ It was [Compostmodern](http://compostmodern.org/), sustainable design conference
 With Martha onboard, Diligent is kicking into high gear. It's a strange feeling the first time you see an invoice go out to a client that you didn't send. Overall output is up and for the first time, systems need to be in place so we know what we're doing.
 
 Sounds like we need to redesign the proposal templates.
+
+---
+*Originally posted on [StayDiligent.com](http://staydiligent.com).*
+

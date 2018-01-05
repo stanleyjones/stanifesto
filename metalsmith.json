@@ -9,6 +9,7 @@
     }
   },
   "plugins": {
+    "metalsmith-drafts": true,
     "metalsmith-collections": {
       "posts": {
         "pattern": "posts/*.md",

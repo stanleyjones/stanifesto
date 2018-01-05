@@ -1,6 +1,6 @@
 ---
 title: Prioritize by Bang for the Buck
-date: 2017-01-04
+date: 2018-01-05
 layout: post.hbs
 ---
 

@@ -54,7 +54,7 @@ Let's generate a random roadmap of 40 projects, give each project a value and a 
 
 ![figure 3](http://assets.stanifesto.com/images/2018/1/fig3.jpg)
 
-As expected, a random sorting algorithm generates some pretty random looking data. But even here there's a clear pattern. While going with your gut occasionally yields a fantastic ($80k!) cumulative value, the average over these 100 runs is only about $18k.
+As expected, a random sorting algorithm generates some pretty random looking data. But even here there's a clear pattern. While going with your gut occasionally yields a fantastic ($333k!) cumulative value, the average over these 100 runs is only about $86k.
 
 ### Bad Estimations
 
@@ -76,7 +76,7 @@ So far, all of these analyses assume that your organization operates with discre
 
 ![figure 6](http://assets.stanifesto.com/images/2018/1/fig6.jpg)
 
-The result is nearly (but not quite) as good as perfect knowledge.
+The result is 22% better than not re-estimating and 80% as good as perfect knowledge!
 
 ### Takeaways
 

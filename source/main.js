@@ -10,7 +10,7 @@ function color (datetime) {
 	var day = Math.ceil((date - new Date(date.getFullYear(), 0, 1)) / 8.64e+7);
 
 	var hue = Math.floor(360 * day / 365);
-	var sat = 100 * Math.max(0, 1 - ago / 10);
+	var sat = 100 * Math.max(0, 1 - ago / 15);
 	return 'hsl(' + hue + ',' + sat + '%,50%)';
 }
 

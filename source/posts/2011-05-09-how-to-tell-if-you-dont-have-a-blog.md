@@ -9,7 +9,7 @@ tags: text, blogs, children, life, marriage
 
 Once upon a time, I had a blog. Now I'm not so sure. Consider the facts.<!--more-->
 
-I've been blogging off-and-on <a href="http://sunshocked.com/stanifesto/archives/my-first-blog-post">since 2002</a>, lately more off than on. Despite a few, "I'm back!" posts over the last few years, it's become clear to me that I don't really have a blog anymore. There's some pretty damning evidence in support of that hypothesis:
+I've been blogging off-and-on <a href="https://stanifesto.com/my-first-blog-post">since 2002</a>, lately more off than on. Despite a few, "I'm back!" posts over the last few years, it's become clear to me that I don't really have a blog anymore. There's some pretty damning evidence in support of that hypothesis:
 
 In September 2009, <strong>I got married</strong>. Did you know that? Yeah, you probably did. But certainly not from reading this blog. No mention of it anywhere and definitely no photo galleries of the occasion.
 

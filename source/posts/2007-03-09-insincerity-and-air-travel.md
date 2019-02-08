@@ -22,7 +22,7 @@ Okay, I just <a href="http://en.wikipedia.org/wiki/Ditching" title="Ditching on 
 The whole cell-phone-will-bring-down-the-plane assertion is ludicrous and even the <a href="http://news.com.com/Feds+move+on+wireless+Web%2C+cell+phones+in+flight/2100-1039_3-5491802.html?tag=nefd.top" title="'Feds move on wireless web' on News.com">FCC has proposed</a> opening up planes to cellular use.
 
 <div class="pullquote" style="text-align:center;">
-<p><img class="content" src="http://assets.stanifesto.com/images/2007/03/inspectionnotice.jpg" alt="inspection notice" /></p>
+<p><img class="content" src="https://assets.stanifesto.com/images/2007/03/inspectionnotice.jpg" alt="inspection notice" /></p>
 <p class="small">"To protect you..." it begins.</p>
 </div>
 

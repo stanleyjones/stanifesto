@@ -17,7 +17,7 @@ In the olden days (the 90s), one solution was to pre-render certain text as an i
 
 The best solution is for me to know what fonts you have on your computer and design using those. Afterall, <a href="http://www.informationarchitects.jp/the-web-is-all-about-typography-period" title="iA's now famous 'Web Design is 95% Typography">a good designer can make due</a> with non-fancy typefaces.
 
-<div class="pullquote" style="float:right;"><img class="content" src="http://assets.stanifesto.com/images/2007/02/mscorefonts.jpg" alt="MS Core Fonts"/><p class="small">Microsoft's Core Fonts for the Web</p></div>
+<div class="pullquote" style="float:right;"><img class="content" src="https://assets.stanifesto.com/images/2007/02/mscorefonts.jpg" alt="MS Core Fonts"/><p class="small">Microsoft's Core Fonts for the Web</p></div>
 
 Microsoft (caution: Stan is about to praise Microsoft) realized this back in 1996 and released "<a href="http://en.wikipedia.org/wiki/Core_fonts_for_the_Web" title="Core fonts for the web on Wikipedia">Core Fonts for the Web</a>", a collection of 10 typefaces free for distribution and bundled with <em>everything</em>. The project was canceled in 2002 but five years after the project's cancellation it's still had an effect on the current landscape; the <a href="http://www.visibone.com/font/FontResults.html" title="According to a Visibone survey...">Top 10 reigning champs</a> of web typography are:
 
@@ -40,7 +40,7 @@ Big Question Time. Which 10 typefaces would you choose for a modern day "Core Fo
 
 Since asking the question means I have to try to answer it myself, here are mine. The <a href="http://www.w3.org/TR/css3-fonts/#generic-font-families" title="More W3C anyone?">CSS3 specification</a> contains 5 font families: serif, sans-serif, cursive, fantasy, and monospace. I've tried to make sure they're all represented.
 
-<div class="pullquote" style="float:right;"><img class="content" src="http://assets.stanifesto.com/images/2007/02/stancorefonts.jpg" alt="MS Core Fonts"/><p class="small">Stan's 'Ardkore Fonts for the Web</p></div>
+<div class="pullquote" style="float:right;"><img class="content" src="https://assets.stanifesto.com/images/2007/02/stancorefonts.jpg" alt="MS Core Fonts"/><p class="small">Stan's 'Ardkore Fonts for the Web</p></div>
 
 <dl>
 <dt>Serif</dt>

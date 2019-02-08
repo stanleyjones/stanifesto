@@ -28,7 +28,7 @@ Here are some popular methods for roadmap planning. Each one has its champions s
 
 How can we compare these different methods? I've put together a model based on cumulative value. If a project — once delivered — makes $1k a week and takes 2 weeks to deliver, the cumulative value of that project would look like this:
 
-![figure 1](http://assets.stanifesto.com/images/2018/1/fig1.jpg)
+![figure 1](https://assets.stanifesto.com/images/2018/1/fig1.jpg)
 
 About what we'd expect. No revenue for the first two weeks and $1k each week after that, with a cumulative total of $10k (10 weeks at $1k) by the end of the quarter.
 
@@ -42,7 +42,7 @@ Each prioritization method would stage these projects differently. Emergent woul
 
 So what do the cumulative values for each approach look like?
 
-![figure 2](http://assets.stanifesto.com/images/2018/1/fig2.jpg)
+![figure 2](https://assets.stanifesto.com/images/2018/1/fig2.jpg)
 
 Hey look, Bang for the Buck wins! This result might not surprise you based on the title of this post, but let's throw some more "real world" examples at it.
 
@@ -52,7 +52,7 @@ It seems reasonable to me that an organization could easily generate a list of 4
 
 Let's generate a random roadmap of 40 projects, give each project a value and a duration, and then prioritize that roadmap using the Emergent method. In fact, let's do that 100 times and see what we get.
 
-![figure 3](http://assets.stanifesto.com/images/2018/1/fig3.jpg)
+![figure 3](https://assets.stanifesto.com/images/2018/1/fig3.jpg)
 
 As expected, a random sorting algorithm generates some pretty random looking data. But even here there's a clear pattern. While going with your gut occasionally yields a fantastic ($333k!) cumulative value, the average over these 100 runs is only about $86k.
 
@@ -64,17 +64,17 @@ Why stop there? Humans are also pretty bad at estimating value. How many times h
 
 Here's the average cumulative value over 1000 runs for each of our prioritization methods given perfect knowledge:
 
-![figure 4](http://assets.stanifesto.com/images/2018/1/fig4.jpg)
+![figure 4](https://assets.stanifesto.com/images/2018/1/fig4.jpg)
 
 And here they are again when the prioritization is based on *badly estimated* values and durations instead of actual:
 
-![figure 5](http://assets.stanifesto.com/images/2018/1/fig5.jpg)
+![figure 5](https://assets.stanifesto.com/images/2018/1/fig5.jpg)
 
 A lot worse, right? The important thing to note here is that, even when our estimates are awful, it doesn't change the relative performance of our methods. A cloudy Crystal Ball is still better than ignoring value or duration when prioritizing.
 
 So far, all of these analyses assume that your organization operates with discrete "projects" and not the more agile "pipelines" that are becoming increasingly popular (and even the Standish Group [suggests are more successful](https://www.infoq.com/articles/standish-chaos-2015)). Let's take a look at one more chart. In this one, prioritization is still based on imperfect knowledge but, whenever a project is completed, the remaining roadmap is *re-estimated* and *re-prioritized* based on those new estimates.
 
-![figure 6](http://assets.stanifesto.com/images/2018/1/fig6.jpg)
+![figure 6](https://assets.stanifesto.com/images/2018/1/fig6.jpg)
 
 The result is 22% better than not re-estimating and 80% as good as perfect knowledge!
 

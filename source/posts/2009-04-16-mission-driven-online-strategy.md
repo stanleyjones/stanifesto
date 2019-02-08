@@ -73,13 +73,13 @@ In my final year as Senior Webmaster for Rainforest Action Network, we pulled of
 
 The <em>impossible goal</em> was to catalog enough products that contained palm oil or its derivatives to map the supply chain back to the primary forces of deforestation in tropical rainforests. The team consisted of a palm oil campaigner (Brihannala Morgan), an online organizer (Robin Beck, see above), a web designer/developer (me), and three awesome interns.
 
-<div class="figure right"><img src="http://assets.stanifesto.com/images/2009/04/tpwpo-300x207.png" alt="TheProblemWithPalmOil screenshot" /></div>
+<div class="figure right"><img src="https://assets.stanifesto.com/images/2009/04/tpwpo-300x207.png" alt="TheProblemWithPalmOil screenshot" /></div>
 
 <strong>Step 1</strong> was to ask supporters to go to their local supermarket and find products that contained palm oil, palmitate, etc. For this step, the team created an <a href="http://www.youtube.com/watch?v=KKpTE5ID_0E&feature=channel_page">instructive yet entertaining video</a> on YouTube. We further incentivized the mission by awarding the top "Supermarket Sleuths".
 
 <strong>Step 2</strong> was to ask our online activists to <a href="http://ran.org/the_problem_with_palm_oil/the_problem/">enter the UPC numbers</a> (the form is down now) of products they found. For this we connected to a third-party database to help verify that products were real. Since activists could also mark certain products as <em>not</em> containing palm oil, it was mostly self-regulating.
 
-<div class="figure left"><img src="http://assets.stanifesto.com/images/2009/04/7e31b93646.jpg" alt="TheProblemWithPalmOil stickers" /></div>
+<div class="figure left"><img src="https://assets.stanifesto.com/images/2009/04/7e31b93646.jpg" alt="TheProblemWithPalmOil stickers" /></div>
 
 <strong>Step 3</strong> was to ask those same online activists (I use the term "online" loosely here, since they've spent most of their time in grocery stores) to return, warning stickers in hand, to mark those products containing palm oil. RAN headquarters followed this up with a letter to companies whose products were getting stickered.
 

@@ -50,4 +50,4 @@ Close enough! There are some definite improvements to my own list, if I do say s
 
 Still on my list is a digital multimeter, because not knowing the <em>precise</em> number of volts here or amps there is going to drive a <a href="http://www.sunshocked.com/stanifesto/archives/why-im-spending-104-hours-on-the-train-this-december/">number-obsessed</a> fellow like me crazy. Oh, and I need to talk to my landlord about all this... you don't think he'll mind, do you?
 
-<strong>Update (1/20/10):</strong> <a href="http://sunshocked.com/stanifesto/archives/going-solar-pt-ii/">It's up-and-running!</a>
+<strong>Update (1/20/10):</strong> <a href="https://stanifesto.com/going-solar-pt-ii/">It's up-and-running!</a>

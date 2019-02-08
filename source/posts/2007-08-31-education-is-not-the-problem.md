@@ -21,7 +21,7 @@ The solutions that get me really excited are the ones that openly share campaign
 
 The core of this is that those people enlightened to the point where they feel responsibility for the world and want to take action won't feel satisfied with activism that strips them of that responsibility. Which is a good thing, because "absolution activism" is a false solution anyway.
 
-<img class="right" src="http://assets.stanifesto.com/images/2007/08/nopooping.thumbnail.jpg" alt="No Pooping Sign" />
+<img class="right" src="https://assets.stanifesto.com/images/2007/08/nopooping.thumbnail.jpg" alt="No Pooping Sign" />
 
 Back to the signs that have gone up in my neighborhood. They are a clear example of taking the "If only people knew the truth..." to an illogical extreme. Being a big city with nice weather, San Francisco has more than it's share of homeless out on the streets. My neighborhood is not the worst in the city in that regard, but the only that I've noticed to try to address the problem by putting up infographics about what is and is not acceptable behavior.
 

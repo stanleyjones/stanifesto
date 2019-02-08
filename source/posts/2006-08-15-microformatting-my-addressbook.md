@@ -22,14 +22,14 @@ Enter microformats. With microformats, you can do a little behind the scenes wor
 My Addressbook was chaos. There was one group called "work", one called "personal" and then a big pool of unorganized people. I never knew where to look (would my cubemate <a href="http://floatingark.blogspot.com/" title="FloatingArk">Japhet</a>, in whom I often confide great secrets, be contained by "work" or "personal"?) and would frequently find people I did not remember a damn thing about. I had plenty of content, like phone numbers and email addresses, but no way to make sense of it.
 
 <div class="pullquote" style="float:right; text-align:center;">
-<img class="content" src="http://assets.stanifesto.com/images/2006/08/xfnJaphet.jpg" alt="XFN relationship in Addressbook's notes field" />
+<img class="content" src="https://assets.stanifesto.com/images/2006/08/xfnJaphet.jpg" alt="XFN relationship in Addressbook's notes field" />
 <p class="small">Nice photo, dude.</p>
 </div>
 
 There's a microformat for relationships called <a href="http://gmpg.org/xfn/" title="GMPG.org">XFN</a>. As an example, you could link to someone's else blog and use XFN to note them a colleague that you had actually met in real life (with an easy rel="acquaintance met colleague"). I opened one window to the XFN Quick Reference table and another to my Addressbook and started chugging away. There were some tough decisions to be made (is my father a "friend"? is this person a "muse" or a "crush"?) but a clearer picture of the people in my life and how they relate quickly came into view.
 
 <div class="pullquote" style="float:left; text-align:center;">
-<img class="content" src="http://assets.stanifesto.com/images/2006/08/xfnGroups.jpg" alt="XFN relationshipa as Smart Groups" />
+<img class="content" src="https://assets.stanifesto.com/images/2006/08/xfnGroups.jpg" alt="XFN relationshipa as Smart Groups" />
 <p class="small">Crushs are just a click away!</p>
 </div>
 

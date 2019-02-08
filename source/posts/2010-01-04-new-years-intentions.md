@@ -9,13 +9,13 @@ tags: text, 2010, internet, life, resolutions, waste
 
 Before making resolutions for 2010, I reviewed those I had made each January 1st throughout the 'Naughties. While many had been checked off, those that remained suggested a new strategy.<!--more-->
 
-I've been writing and rewriting annual goals religiously since the ball dropped in 2000, back when I was a senior in college. <a href="http://sunshocked.com/stanifesto/archives/be-it-resolved-for-2007">I take them seriously.</a> A decade later I've thrown raves (2001), gone vegetarian (2003), moved to San Francisco (also 2003), and have my own business (2008). Despite such achievements, every year has the same leftovers. Make more art. Exercise more. Spend less. Stay in better touch with family and friends.
+I've been writing and rewriting annual goals religiously since the ball dropped in 2000, back when I was a senior in college. <a href="https://stanifesto.com/be-it-resolved-for-2007">I take them seriously.</a> A decade later I've thrown raves (2001), gone vegetarian (2003), moved to San Francisco (also 2003), and have my own business (2008). Despite such achievements, every year has the same leftovers. Make more art. Exercise more. Spend less. Stay in better touch with family and friends.
 
 A new strategy was called for. Despite Sarah's success with <em>intentions</em> over <em>resolutions</em>, I have clung to my <a href="http://en.wikipedia.org/wiki/SMART_criteria"><acronym>SMART</acronym> goals</a> like a wobbly buoy. Wildly successful at life-changing leaps, they admittedly leave behind daily behaviors. Now fully comfortable in my own life, I no longer need transformation. I need grace. I need focus. I need intention. And so my intentions for 2010 are "Less Waste, More Life".
 
 <h4>Less Waste</h4>
 
-Worried that my intentions were ambiguous bordering on glib, I almost wrote this as, "Less Dicking Around on the Internet" but <a href="http://sunshocked.com/stanifesto/archives/finding-my-wei">as I reread my Tao Te Ching</a>...
+Worried that my intentions were ambiguous bordering on glib, I almost wrote this as, "Less Dicking Around on the Internet" but <a href="https://stanifesto.com/finding-my-wei">as I reread my Tao Te Ching</a>...
 
 <blockquote>So, as ever hidden, we should look at its inner essence:<br />As always manifest, we should look at its outer aspects.</blockquote>
 
@@ -27,7 +27,7 @@ Either way, "dicking around on the Internet" had to go. I unsubscribed from all 
 
 One step further, my laptop now lives at the office during the week. Yes, I will be <cite>sans computas</cite> post-six o'clock every day. It will still make it home on the weekends, for purposes of copying torrented content to <a href="http://www.viddler.com/explore/sceablog/videos/537/0.512">our media server</a> and whimsical side projects, but otherwise is 100% property of Diligent Creative (who owns it anyway, for legal reasons).
 
-These behaviors have already demonstrated their potential. As Sarah returned from her haircut on Sunday, I sat in the kitchen making <a href="http://www.instructables.com/id/Home-made-Sun-Jar/">DIY moonjars</a> while baking homemade bread (cracked pepper and Gruyere) with the <a href="http://sunshocked.com/stanifesto/archives/going-solar">old solar panel</a> primed for installation on our new back porch. Solar projects (Less Wasted Energy!) and home baking (Less Wasted Money!) aside, moments where&mdash;merely a week before&mdash;I would be reading about <em>things to do</em> had become <em>doing things</em>. Gently setting down my 4-in-1 screwdriver, I looked up and said, "my life used to be like this all the time."
+These behaviors have already demonstrated their potential. As Sarah returned from her haircut on Sunday, I sat in the kitchen making <a href="http://www.instructables.com/id/Home-made-Sun-Jar/">DIY moonjars</a> while baking homemade bread (cracked pepper and Gruyere) with the <a href="https://stanifesto.com/going-solar">old solar panel</a> primed for installation on our new back porch. Solar projects (Less Wasted Energy!) and home baking (Less Wasted Money!) aside, moments where&mdash;merely a week before&mdash;I would be reading about <em>things to do</em> had become <em>doing things</em>. Gently setting down my 4-in-1 screwdriver, I looked up and said, "my life used to be like this all the time."
 
 <h4>More Life</h4>
 

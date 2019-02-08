@@ -9,7 +9,7 @@ tags: text, batteries, diy, energy, solar, wires
 
 Two years since its conception, my "modular solar" project is now up-and-running. Here's how I did it and how I'd do it differently if I started today.<!--more-->
 
-As a renter, dropping thousands of dollars to renovate my roof into a field of solar panels wasn't an option for me. <a href="http://sunshocked.com/stanifesto/archives/going-solar/">A couple years ago I was inspired</a> to attempt a more modular solution, buying a panel at a time and spreading room to room throughout the house. While easy as DIY projects go (no sawing, soldering, or even sewing), it was not without a few snags.
+As a renter, dropping thousands of dollars to renovate my roof into a field of solar panels wasn't an option for me. <a href="https://stanifesto.com/going-solar/">A couple years ago I was inspired</a> to attempt a more modular solution, buying a panel at a time and spreading room to room throughout the house. While easy as DIY projects go (no sawing, soldering, or even sewing), it was not without a few snags.
 
 The first problem was parts. The initial list that I put together was lacking in some very important ones, namely all the cables that let energy flow from one component to the next. Here's the grand list of what I ended up buying (with suggested replacements for products that have since been discontinued).
 
@@ -26,10 +26,10 @@ The first problem was parts. The initial list that I put together was lacking in
 <li><strong>This space intentionally left blank.</strong> You really should plug something into your inverter. That's sort of the point.</li>
 </ol>
 
-<div class="figure left"><img src="http://assets.stanifesto.com/images/2010/01/IMG_0682-225x300.jpg" alt="PV panel and cable leading into back window" width="225" height="300" /></div>
+<div class="figure left"><img src="https://assets.stanifesto.com/images/2010/01/IMG_0682-225x300.jpg" alt="PV panel and cable leading into back window" width="225" height="300" /></div>
 
 The above system was, more or less, what debuted at last year's Burning Man camp and powered our hanging lights all week.  After that, it tried to move to the roof of our apartment but was soon discovered by our landlord who followed the cable into our bedroom window (and accused us of throwing "graffiti parties" up there as well).
 
 Now it finally has a (semi-) permanent home in our new apartment. Attached with wire (more wire!) to the back deck, the output cables run into our laundry room and the charge controller. The battery is currently in a cardboard box until it gets a more secure container.
 
-<div class="figure"><img src="http://assets.stanifesto.com/images/2010/01/IMG_0678-300x225.jpg" alt="Charge controller, cables, and battery" width="300" height="225" /></div>
+<div class="figure"><img src="https://assets.stanifesto.com/images/2010/01/IMG_0678-300x225.jpg" alt="Charge controller, cables, and battery" width="300" height="225" /></div>

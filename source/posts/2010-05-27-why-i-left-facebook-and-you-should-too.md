@@ -45,6 +45,6 @@ Facebook is not going to stop leveraging its size and depth to pursue potential 
 
 <h4>Don't you do web strategy?</h4>
 
-Yeah, it's funny right? I'm either being hypocritical by telling people they need to be on a site that I'm not on myself or irrelevant by warning them off the biggest site on the web. <a href="http://sunshocked.com/stanifesto/archives/the-dark-territory-between-hypocrisy-and-irrelevance/">I'm comfortable with that.</a> I'm also comfortable saying that having a multi-channel marketing strategy that includes a mission-relevant action your friends/fans/followers can take is far more important than just having a profile.
+Yeah, it's funny right? I'm either being hypocritical by telling people they need to be on a site that I'm not on myself or irrelevant by warning them off the biggest site on the web. <a href="https://stanifesto.com/the-dark-territory-between-hypocrisy-and-irrelevance/">I'm comfortable with that.</a> I'm also comfortable saying that having a multi-channel marketing strategy that includes a mission-relevant action your friends/fans/followers can take is far more important than just having a profile.
 
 Let's not put the cart before the horse.

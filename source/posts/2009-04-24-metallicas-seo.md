@@ -193,15 +193,15 @@ Each song on each album will be scored from 0 to 10, with 10 signifying a #1 res
 
 <h4>Analysis</h4>
 
-<div class="figure"><img src="http://assets.stanifesto.com/images/2009/04/metalligraph-billboard.png" alt="Metalligraph 1" title="Metalligraph 1" /></div>
+<div class="figure"><img src="https://assets.stanifesto.com/images/2009/04/metalligraph-billboard.png" alt="Metalligraph 1" title="Metalligraph 1" /></div>
 
 First, it should be noted that Metallica took a few albums to get started. Here are the Billboard peaks for each album in the year it was released. Their first #1 record was the eponymous "black album", no doubt propelled by their single "Enter Sandman", and they have been able to reach that position for each new release since.
 
-<div class="figure"><img src="http://assets.stanifesto.com/images/2009/04/metalligraph-seo.png" alt="Metalligraph 2" title="Metalligraph 2" /></div>
+<div class="figure"><img src="https://assets.stanifesto.com/images/2009/04/metalligraph-seo.png" alt="Metalligraph 2" title="Metalligraph 2" /></div>
 
 Rising throughout the 1980s, the search engine visibilty of Metallica's song titles did indeed wane in the late 90s. Although it has recovered again with the notoriety of Metallica's 2004 documentary <a href="http://www.imdb.com/title/tt0387412/">"Some Kind of Monster"</a> and the release of their latest album, "Death Magnetic".
 
-<div class="figure"><img src="http://assets.stanifesto.com/images/2009/04/metalligraph-trendline.png" alt="Metalligraph 3" title="Metalligraph 3" /></div>
+<div class="figure"><img src="https://assets.stanifesto.com/images/2009/04/metalligraph-trendline.png" alt="Metalligraph 3" title="Metalligraph 3" /></div>
 
 In fact, if we remove the albums "Load", "Reload", and "St. Anger" from the data, we see the trendline of the band's early rise closely predicts the relevance of "Death Magnetic". While many reviews claim that "Death Magnetic" is a return to form for the band, recapturing the glory of pre-"Metallica" albums, we now have the unassailable scientific evidence.
 

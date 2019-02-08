@@ -20,7 +20,7 @@ It doesn't seem to be a terribly tall order, yet at this time there are <em>zero
 Being a good son, I tried to help her find the car she was looking for, even though I knew that the first available model to meet her criteria was the <a href="http://www.gm.com/company/gmability/adv_tech/300_hybrids/hyb_timeline.html" title="GM's Hybrid Timeline">Chevy Malibu</a>, estimated to hit markets late 2007. I pressed a bit more about why it was important to her to buy American and got more information. My great grandfather worked his whole life for GM on the assembly line and a family devotion to support his work had been passed on from generation to generation. This complicates the situation a little bit.
 
 <div class="pullquote" style="float:right; text-align:center;">
-<img class="content" src="http://assets.stanifesto.com/images/2006/12/model-t.jpg" alt="Ford Model-T" />
+<img class="content" src="https://assets.stanifesto.com/images/2006/12/model-t.jpg" alt="Ford Model-T" />
 <p class="small">The Ford Model-T, which still gets twice the MPG as an Explorer.</p>
 </div>
 

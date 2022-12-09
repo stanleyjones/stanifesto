@@ -18,7 +18,7 @@ To return to the issue at hand, with "Web 2.0" one can see the rounded corners, 
 <a href="http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html" title="What is Web 2.0' on O'ReillyNet">According to O'Reilly</a>, it's about <a href="http://www.1up.com/do/reviewPage?cId=3155329" title="'Legend of Zelda: Twilight Princess' review">rich experiences</a>, <a href="http://www.youtube.com/watch?v=Hi6DfV9UetY" title="Editing your Mii">user-added value</a>, and the <a href="http://en.wikipedia.org/wiki/Virtual_Console_(Wii)" title="Virtual Console on Wikipedia">Long Tail</a> (and a few more things). Of course, others have <a href="http://web2.0validator.com/" title="Web2.0Validator">other criteria</a>. In general, most would agree that it's about treasuring the needs and power of the user over superfluous features.
 
 <div class="pullquote" style="float:left; text-align:center;">
-<img class="content" style="width:200px;" src="https://assets.stanifesto.com/images/2006/12/mii.jpg" alt="Me and my Mii" />
+<img class="content" style="width:200px;" src="https://assets.stanifesto.blog/images/2006/12/mii.jpg" alt="Me and my Mii" />
 <p class="small">Me and my Mii</p>
 </div>
 

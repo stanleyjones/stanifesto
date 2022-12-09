@@ -13,7 +13,7 @@ Beantown (named after <a href="http://www.oldtimecandy.com/boston-baked-beans.ht
 
 These "terrorists" turned out to be an <a href="http://interferenceinc.com/" title="InterferenceInc.com">advertising firm</a> doing <a href="http://en.wikipedia.org/wiki/Guerilla_marketing" title="Guerilla marketing on Wikipedia">guerilla marketing</a> for the upcoming <a href="http://www.adultswim.com/shows/athf/" title="ATHF Official Site">Aqua Teen Hunger Force</a> movie. In case that last sentence made no sense to you, let me put it another way. Boston went apeshit over Lite Brites giving people the finger. No seriously, here's what they looked like:
 
-<img src="https://assets.stanifesto.com/images/2007/01/mooninitethrowie.jpg" alt="Mooninite Throwie" />
+<img src="https://assets.stanifesto.blog/images/2007/01/mooninitethrowie.jpg" alt="Mooninite Throwie" />
 
 You can't see the finger, because FoxNews at least has the decency to blur out a cartoon bird-flip. Don't want our kids to pick up any nasty pixelated habits.
 
@@ -27,4 +27,4 @@ The <a href="http://www.antiadvertisingagency.com/" title="The AAA">Anti-Adverti
 
 <strong>Update (2/1/07):</strong> Following their arraignment, the two guys arrested for putting up the devices agreed to <a href="http://www.youtube.com/watch?v=zx2ytr2Oyv4" title="FoxNews coverage on YouTube">only answer reporters' questions if they were about haircuts in the '70s</a>. It's great to see that they're treating this issue with exactly the amount of respect it deserves. Here they are laughing in court:
 
-<img src="https://assets.stanifesto.com/images/2007/02/vt1cartoonscareap.jpg" alt="Laughing in court" />
+<img src="https://assets.stanifesto.blog/images/2007/02/vt1cartoonscareap.jpg" alt="Laughing in court" />

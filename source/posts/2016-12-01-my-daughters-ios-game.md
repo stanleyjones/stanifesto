@@ -10,7 +10,7 @@ Not many people believe that my daughter made her own iOS app. I don't blame the
 
 [It's called TriTacToe and it launched today.](https://itunes.apple.com/us/app/tritactoe/id1150863265?ls=1&mt=8)
 
-![TriTacToe Landing Page](https://assets.stanifesto.com/images/2016/12/landingPage.jpg)
+![TriTacToe Landing Page](https://assets.stanifesto.blog/images/2016/12/landingPage.jpg)
 
 "But you *actually* made it, right?" people ask me, knowing that I'm a coder and assuming that I'm being magnanimous in sharing credit. They're correct that my daughter — who is just learning to read — didn't [teach herself Objective-C](http://tryobjectivec.codeschool.com/) and the intricacies of [Xcode](https://developer.apple.com/xcode/). But they're wrong that it's not her game. It was her idea and she's made key decisions along the way to defend her vision. I'm just the engineering team.
 
@@ -35,7 +35,7 @@ That meant beta-testing.
 We submitted the app for beta review on iTunes Connect and informed our carefully curated list of expert beta-testers: grandmas and grandpas, aunts and uncles, teachers, babysitters, and parents of Adela's friends. After an initial round of surprise and disbelief, the feedback started flowing in. Adela carefully considered each comment.
 
 <aside>
-![iPhone Screenshot](https://assets.stanifesto.com/images/2016/12/iPhoneScreenshot.jpg)
+![iPhone Screenshot](https://assets.stanifesto.blog/images/2016/12/iPhoneScreenshot.jpg)
 </aside>
 
 Savvy players of TriTacToe could quickly find a winning strategy and ruthlessly employ it every game. They wondered if there was anything we could offer to keep things interesting. My first thought was that [tic-tac-toe has the same problem](http://blog.ostermiller.org/tic-tac-toe-strategy) so this was just something they had to deal with. Adela's response was that we could allow players to make the board bigger than the standard 4x4 if they wanted. She actually thought you should be able to enter *any* number (like 1000) but I talked her down to 4x4, 5x5, and 6x6. We had to keep the squares "touchable", I said.
@@ -54,7 +54,7 @@ It was accepted in less than twelve hours.
 
 ---
 
-![Adela Coding](https://assets.stanifesto.com/images/2016/12/adelaCoding.jpg)
+![Adela Coding](https://assets.stanifesto.blog/images/2016/12/adelaCoding.jpg)
 
 We've already started thinking about our next game. We're collaborating a little bit more on this one, as I have some ideas that I'd like to see in a game too. I suggested it take place in space and she — with a level of enthusiasm reserved for 5-year olds — suggested it be about mining gems from asteroids. I suggested it have multiple teams competing and she suggested one team be robots. I said "or robot dragons" and she lit up. I decided to let her in on a little secret I had picked up in my 39 years.
 

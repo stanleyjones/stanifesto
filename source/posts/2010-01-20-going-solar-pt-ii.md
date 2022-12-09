@@ -26,10 +26,10 @@ The first problem was parts. The initial list that I put together was lacking in
 <li><strong>This space intentionally left blank.</strong> You really should plug something into your inverter. That's sort of the point.</li>
 </ol>
 
-<div class="figure left"><img src="https://assets.stanifesto.com/images/2010/01/IMG_0682-225x300.jpg" alt="PV panel and cable leading into back window" width="225" height="300" /></div>
+<div class="figure left"><img src="https://assets.stanifesto.blog/images/2010/01/IMG_0682-225x300.jpg" alt="PV panel and cable leading into back window" width="225" height="300" /></div>
 
 The above system was, more or less, what debuted at last year's Burning Man camp and powered our hanging lights all week.  After that, it tried to move to the roof of our apartment but was soon discovered by our landlord who followed the cable into our bedroom window (and accused us of throwing "graffiti parties" up there as well).
 
 Now it finally has a (semi-) permanent home in our new apartment. Attached with wire (more wire!) to the back deck, the output cables run into our laundry room and the charge controller. The battery is currently in a cardboard box until it gets a more secure container.
 
-<div class="figure"><img src="https://assets.stanifesto.com/images/2010/01/IMG_0678-300x225.jpg" alt="Charge controller, cables, and battery" width="300" height="225" /></div>
+<div class="figure"><img src="https://assets.stanifesto.blog/images/2010/01/IMG_0678-300x225.jpg" alt="Charge controller, cables, and battery" width="300" height="225" /></div>

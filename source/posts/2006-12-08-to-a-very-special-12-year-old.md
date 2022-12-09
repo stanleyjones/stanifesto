@@ -12,7 +12,7 @@ Yesterday was my website's birthday. Not this website, the <a href="http://ran.o
 The short answer is <em>everything</em>, but let's delve into a little more detail, shall we? I've included screenshots of RAN.org from each year, so you can play along at home.
 
 <h4>1994</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
 <ul>
 <li>Tim Berners-Lee founds the <a href="http://www.w3.org/" title="W3.org">World Wide Web Consortium</a> (W3C)</li>
 <li>The brand new <a href="http://www.netscape.com/" title="Netscape.com">Netscape</a> begins to chip away at <a href="ftp://ftp.ncsa.uiuc.edu/Mosaic/" title="Download it from the NCSA">Mosaic</a></li>
@@ -22,7 +22,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>1995</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
 <ul>
 <li><a href="http://java.sun.com/" title="Java at Sun.com">Java</a> and <a href="http://en.wikipedia.org/wiki/JavaScript" title="JavaScript on Wikipedia">JavaScript</a> join the party</li>
 <li><a href="http://amazon.com/" title="Amazon.com">Amazon</a> starts books so cheap, everyone says it can't last</li>
@@ -32,7 +32,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>1996</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
 <ul>
 <li>The <a href="http://imdb.com/" title="IMDB.com">Internet Movie Database</a> (IMDB) is incorporated, using data gathered from Usenet</li>
 <li>Macromedia releases <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" title="Adobe's Download Center">Flash</a> spawning millions of terrible websites</li>
@@ -41,7 +41,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>1997</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
 <ul>
 <li>The first PCs for less than $1000 emerge</li>
 <li>The <a href="http://www.burningpixel.com/Baby/Babygif.htm" title="The Dancing Baby on Burning Pixel">Dancing Baby</a> debuts</li>
@@ -50,7 +50,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>1998</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
 <ul>
 <li>The <a href="http://en.wikipedia.org/wiki/DMCA" title="DMCA on Wikipedia">DMCA</a> is passed, many protest</li>
 <li>Windows 98 is released</li>
@@ -59,7 +59,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>1999</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran1990s.jpg" alt="RAN.org in the 1990s" />
 <ul>
 <li>The <a href="http://en.wikipedia.org/wiki/Y2K" title="Y2K on Wikipedia">Y2K</a> freakout begins</li>
 <li>The launch of <a href="http://www.napster.com/" title="Napster.com">Napster</a> sounds the death knell for the music industry</li>
@@ -68,7 +68,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>2000</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran2000.jpg" alt="RAN.org in 2000" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran2000.jpg" alt="RAN.org in 2000" />
 <ul>
 <li><a href="http://www.aol.com/" title="AOL.com">AOL</a>, a cute little internet company, buys Time Warner, a ginormous media conglomerate</li>
 <li>Microsoft loses it's anti-trust case <a href="http://www.usdoj.gov/atr/cases/ms_index.htm" title="US Dept of Justice">United States v. Microsoft</a></li>
@@ -77,7 +77,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>2001</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran2001.jpg" alt="RAN.org in 2001" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran2001.jpg" alt="RAN.org in 2001" />
 <ul>
 <li>The launch of <a href="http://wikipedia.org/" title="Wikipedia.org">Wikipedia</a> tears down the Ivory Tower</li>
 <li><a href="http://suck.com/" title="Suck.com">Suck</a> posts its last article</li>
@@ -87,7 +87,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>2002</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran2002.jpg" alt="RAN.org in 2002" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran2002.jpg" alt="RAN.org in 2002" />
 <ul>
 <li><a href="http://ebay.com/" title="eBay.com">eBay</a> buys <a href="http://paypal.com/" title="PayPal.com">PayPal</a>, the only "Dot.com buys Dot.com" move that has ever seemed like a no-brainer to me</li>
 <li>Old school social networking site <a href="http://allyourbase.planettribes.gamespy.com/index.shtml" title="Friendster.com">Friendster</a> goes live</li>
@@ -96,7 +96,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>2003</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran2003.jpg" alt="RAN.org in 2003" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran2003.jpg" alt="RAN.org in 2003" />
 <ul>
 <li><a href="http://www.mp3.com/off-topic-discussion/anybody-here-remember-the-old-mp3.com-from-2000/topic/15-113329/msgs.html" title="Discussion of the old MP3.com, on the new MP3.com">MP3.com</a> shuts down</li>
 <li>Social bookmarking site <a href="http://del.icio.us/" title="Del.icio.us">del.icio.us</a> goes live</li>
@@ -106,7 +106,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>2004</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran2004.jpg" alt="RAN.org in 2004" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran2004.jpg" alt="RAN.org in 2004" />
 <ul>
 <li>Photo sharing site <a href="http://flickr.com/" title="Flickr.com">Flickr</a> goes live and allows people to look up ex-boy/girlfriends and see if they're fat</li>
 <li><a href="http://mail.google.com/mail/help/intl/en/about.html" title="About GMail">GMail</a> introduced, requiring an invite for the tasty AJAX action</li>
@@ -116,7 +116,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>2005</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran2005.jpg" alt="RAN.org in 2005" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran2005.jpg" alt="RAN.org in 2005" />
 <ul>
 <li><a href="http://youtube.com/" title="YouTube.com">YouTube</a> goes live, amidst shrieks of "Be the media!" and "OMG, I can't believe he ate that!"</li>
 <li>eBay buys <a href="http://skype.com/" title="Skype.com">Skype</a></li>
@@ -125,7 +125,7 @@ The short answer is <em>everything</em>, but let's delve into a little more deta
 </ul>
 
 <h4>2006</h4>
-<img src="https://assets.stanifesto.com/images/2006/12/ran2006.jpg" alt="RAN.org in 2006" />
+<img src="https://assets.stanifesto.blog/images/2006/12/ran2006.jpg" alt="RAN.org in 2006" />
 <ul>
 <li>Google buys YouTube, heads are scratched</li>
 <li>Despite a widespread awareness-raising campaign, "<a href="http://www.savetheinternet.com/" title="SaveTheInternet.com">Network Neutrality</a>" laws fail to pass</li>

@@ -12,7 +12,7 @@ I spent several hours today trying to get my new Comcast High-Speed Internet Cab
 The warning signs were visible before I even ran into problems with tech support. I took out the cable modem and got it running pretty quickly. I didn't even need to install all of the fancy Flash demos from the "Manual" CD. However, I was immediately given pause by the curiously labelled button "Internet On/Off". This could get me in real trouble. What if my cat accidentally bumped it right in the middle of a Japanese professor publishing his important findings on cancer research! And I would be getting calls all day long from kids trying to upload pictures of their boobs/biceps (or <a href="http://www.myspace.com/irongoddess" title="'IronGoddess' on MySpace">both</a>) on MySpace, "Stan! Did you turn off the internet again?"
 
 <div class="figure right">
-<img src="https://assets.stanifesto.com/images/2006/08/Comcast-Button.jpg" alt="Internet ON/OFF" />
+<img src="https://assets.stanifesto.blog/images/2006/08/Comcast-Button.jpg" alt="Internet ON/OFF" />
 <p class="caption"><strong>Exhibit 1:</strong> A very dangerous button.</p>
 </div>
 
@@ -21,7 +21,7 @@ The next major flag was when I put in the installation CD. Not only does it tell
 It gives me an error and quits.
 
 <div class="figure">
-<img src="https://assets.stanifesto.com/images/2006/08/Comcast-IE.jpg" alt="Please choose 'Yes' to install Internet Explorer." />
+<img src="https://assets.stanifesto.blog/images/2006/08/Comcast-IE.jpg" alt="Please choose 'Yes' to install Internet Explorer." />
 <p class="caption"><strong>Exhibit 2:</strong> Please drink poison before continuing this installation.</p>
 </div>
 
@@ -32,7 +32,7 @@ We text chat with another technician. His advice... Do you have Flash? Seriously
 I do. It downloads and installs the same damn thing that came on the CD. I am back to square one. I switch over the ADSL and surf around a bit. I learn about <a href="http://www.broadbandreports.com/faq/comcast/1.+Basic+Comcast+things#13104" title="Comcast info on BroadbandReports.com">"Walled Gardens" and "Modem Provisioning"</a>. I get educated. I decide to call back and tell them that the problem is that their installer is not sending the MAC address for my modem and that they need to add me by hand. This solution is made possible by people other than Comcast publishing information about Comcast's network. It scares me completely that if network neutrality isn't made law that I could be <a href="http://www.freepress.net/news/14960" title="'AOL censors oppositition site' on FreePress.net">completely prevented from accessing sites</a> Comcast considers offering information to "hackers" or something.
 
 <div class="figure left">
-<img src="https://assets.stanifesto.com/images/2006/08/COmcast-Brochure.jpg" alt="All you can do with your new service." />
+<img src="https://assets.stanifesto.blog/images/2006/08/COmcast-Brochure.jpg" alt="All you can do with your new service." />
 <p class="caption"><strong>Exhibit 3:</strong> Yes, the majesty of the Comcast High-Speed Internet</p>
 </div>
 

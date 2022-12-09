@@ -19,15 +19,15 @@ In short, leveraging the power that corporations wield in today's society by tur
 
 I was <a href="http://www.heartaikido.com/" title="Heart of San Francisco Aikido">part of a dojo</a> for just over a year, reaching the rank of 5th kyu&mdash;which sounds impressive until you realize that a guy off the street starts at 6th kyu. Like the most effective activism, aikido is entirely non-violent. The goal is to neutralize an attack while having compassion for the attacker. It's perhaps better described via explanation of the first three techniques I was taught and what I would consider their Aikido Activism analogs.
 
-<img class="right" src="https://assets.stanifesto.com/images/2007/06/iriminage.jpg" alt="Iriminage" />
+<img class="right" src="https://assets.stanifesto.blog/images/2007/06/iriminage.jpg" alt="Iriminage" />
 
 <strong>Iriminage.</strong> Meaning "turning throw", iriminage is also called the 20 Year Technique (i.e., it takes two decades to learn it). The first step is to get out of the way of the attack. If you stand still, you get hit and violence wins. Get out of the way and your attacker may follow. If so, you have a chance to step behind. In order to press the attack, the attacker must turn to face you. You turn in place and quickly raise your center of gravity and your arm with it. The attacker, trying to avoid getting hit but also in motion, bends backward. If you step through the attacker completely loses balance and falls over.
 
-<img class="left" src="https://assets.stanifesto.com/images/2007/06/ikkyo.jpg" alt="Ikkyo" />
+<img class="left" src="https://assets.stanifesto.blog/images/2007/06/ikkyo.jpg" alt="Ikkyo" />
 
 <strong>Ikkyo.</strong> I think technically this means "first lesson" but, for reasons already mentioned, it's best to get iriminage in the oven before moving on. The first step is to get out of the way of the attack&mdash;honestly, this is the first step in <em>every</em> aikido technique but the first urge in so many people is to go on the offensive and make it a contest of strength. Don't do that. With ikkyo, you let the attack happen but not connect. Then you grab the attack as it zooms past, preferably by the wrist. Since the attack was trying to hit you, there's power behind it (this is probably where the "use their strength against them" myth comes from). As you turn, put your other hand on the attacker's shoulder and you create an axis around their hips that they will rotate on, in order to stay attached to their fist. Suddenly, you've got them pinned. It can surprise you the first time you get it right.
 
-<img class="right" src="https://assets.stanifesto.com/images/2007/06/kokydosa.jpg" alt="Kokyudosa" />
+<img class="right" src="https://assets.stanifesto.blog/images/2007/06/kokydosa.jpg" alt="Kokyudosa" />
 
 <strong>Kokyudosa.</strong> We would end all of our training sessions with kokyudosa. You sit on your knees, facing your partner. You lay your hands on your knees, palms up, and your partner grabs your wrists. You have to throw them from this position. Beginners twist and turn and writhe, teachers watching and probably trying not to laugh. Eventually you discover that if you settle into your own weight and project your hands beyond your partner&mdash;trying to grab a ball 100 yards behind them&mdash;the dynamic shifts instantly and they go flying. Like magic.
 

@@ -13,7 +13,7 @@ It began sweetly enough. Surrounded by good friends, my wife felt comfortable to
 
 Then she dropped the RP-bomb.
 
-![Tycho and Gabe](https://assets.stanifesto.com/images/2010/01/tychogabe.jpg)
+![Tycho and Gabe](https://assets.stanifesto.blog/images/2010/01/tychogabe.jpg)
 
 Since high school, I've kept the fact that I roleplay secret to escape the scrutiny of those less understanding than my wife. Despite being in good company with paragons of manliness <a href="http://www.youtube.com/watch?v=JQUEQOyIvfk">Vin Diesel</a> and <a href="http://vodpod.com/watch/318-stephen-colbert-on-dungeons-and-dragons">Stephen Colbert</a> confessed players of Dungeons &amp; Dragons, anti-intellectuals and actual intellectuals alike manage to find personal defect with pretending to be someone else.
 
@@ -27,11 +27,11 @@ I've also roleplayed with the same group of friends since 5th grade. We've jumpe
 
 ### Creativity
 
-![Drallar, Undead Hunter](https://assets.stanifesto.com/images/2010/01/Drallar.gif)
+![Drallar, Undead Hunter](https://assets.stanifesto.blog/images/2010/01/Drallar.gif)
 
 Roleplaying also provides a blank canvas to pursue a variety of creative endeavors. It's not <em>unique</em> in this aspect, considering the spectrum of <a href="http://www.cosplay.com/photo/2121745/">videogame cosplayers</a> to <a href="http://www.ifanboy.com/images/ifanboy/geekchartbig.gif">fan fiction authors</a>, but undeniably stands alone in terms of breadth. Roleplaying is a bottomless void that provides endless raw material for anything <em>else</em> you want to do.
 
-![GURPS Online](https://assets.stanifesto.com/images/2010/01/gonlineapp.jpg)
+![GURPS Online](https://assets.stanifesto.blog/images/2010/01/gonlineapp.jpg)
 
 High school was filled with countless drawings of characters and locations, improving my technique with every menacing portrait or breahtaking vista. Eventually, I went to college for fine art. In my adult life, it helps me push my professional edges. When I wanted to teach myself <a href="http://rubyonrails.org/">Ruby on Rails</a> with a side project, I wrote a roleplaying web app. In recent months, I <a href="http://diveintohtml5.org/canvas.html">dove into HTML5's Canvas</a> in order to stay at the cutting edge of my field (and the JavaScript library I wrote to draw hex maps is just a useful byproduct).
 

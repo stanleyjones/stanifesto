@@ -1,8 +1,8 @@
 {
   "name": "stanifesto-metalsmith",
   "private": true,
-  "version": "0.0.3",
-  "description": "Stanifesto.com running on Metalsmith",
+  "version": "0.0.4",
+  "description": "Stanifesto.blog running on Metalsmith",
   "main": "index.js",
   "scripts": {
     "build": "metalsmith",
@@ -10,15 +10,17 @@
   },
   "author": "Stanley Jones <stanley@sunshocked.com>",
   "devDependencies": {
-    "handlebars": "^4.1.0",
-    "metalsmith": "^2.3.0",
-    "metalsmith-collections": "^0.9.0",
-    "metalsmith-drafts": "^0.0.1",
-    "metalsmith-feed": "^0.5.0",
-    "metalsmith-in-place": "^1.4.4",
-    "metalsmith-layouts": "^1.8.1",
-    "metalsmith-markdown": "^0.2.2",
-    "metalsmith-permalinks": "^0.5.0",
-    "metalsmith-register-helpers": "^0.4.0"
+    "@metalsmith/collections": "^1.3.0",
+    "@metalsmith/drafts": "^1.3.0",
+    "@metalsmith/in-place": "^4.5.0",
+    "@metalsmith/layouts": "^2.6.0",
+    "@metalsmith/markdown": "^1.6.0",
+    "@metalsmith/permalinks": "^2.4.1",
+    "jstransformer-handlebars": "^1.2.0",
+    "jstransformer-markdown": "^1.2.1",
+    "metalsmith": "^2.5.1",
+    "metalsmith-discover-helpers": "^0.1.1",
+    "metalsmith-discover-partials": "^0.1.2",
+    "metalsmith-feed": "^1.0.0"
   }
 }

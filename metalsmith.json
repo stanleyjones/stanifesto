@@ -1,41 +1,42 @@
 {
-  "source": "source",
-  "destination": "public",
   "metadata": {
     "site": {
       "author": "Stanley Jones",
       "title": "The Stanifesto",
-      "url": "http://stanifesto.com/"
+      "url": "http://stanifesto.blog"
     }
   },
+  "source": "source",
+  "destination": "public",
+  "clean": true,
   "plugins": {
-    "metalsmith-drafts": true,
-    "metalsmith-collections": {
+    "metalsmith-discover-helpers": {
+      "directory": "templates/helpers"
+    },
+    "metalsmith-discover-partials": {
+      "directory": "templates/partials"
+    },
+    "@metalsmith/drafts": true,
+    "@metalsmith/collections": {
       "posts": {
         "pattern": "posts/*.md",
         "reverse": true,
         "sortBy": "date"
       }
     },
-    "metalsmith-register-helpers": {
-      "directory": "templates/helpers"
+    "@metalsmith/in-place": {
+      "setFilename": true
     },
-    "metalsmith-in-place": {
-      "engine": "handlebars",
-      "rename": true,
-      "pattern": "*.md"
-    },
-    "metalsmith-markdown": true,
-    "metalsmith-permalinks": {
+    "@metalsmith/markdown": true,
+    "@metalsmith/permalinks": {
       "pattern": ":title"
     },
     "metalsmith-feed": {
       "collection": "posts"
     },
-    "metalsmith-layouts": {
-      "engine": "handlebars",
-      "directory": "templates",
-      "partials": "templates/partials"
+    "@metalsmith/layouts": {
+      "default": "post.hbs",
+      "directory": "templates"
     }
   }
 }

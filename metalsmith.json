@@ -3,7 +3,8 @@
     "site": {
       "author": "Stanley Jones",
       "title": "The Stanifesto",
-      "url": "http://stanifesto.blog"
+      "url": "http://stanifesto.blog",
+      "date": 2022
     }
   },
   "source": "source",
@@ -23,9 +24,6 @@
         "reverse": true,
         "sortBy": "date"
       }
-    },
-    "@metalsmith/in-place": {
-      "setFilename": true
     },
     "@metalsmith/markdown": true,
     "@metalsmith/permalinks": {

@@ -1,6 +1,5 @@
 **/.DS_Store
 npm-debug.log
 
-ghost-to-md-output/
 node_modules/
 public/

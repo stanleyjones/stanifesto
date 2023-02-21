@@ -4,7 +4,7 @@
       "author": "Stanley Jones",
       "title": "The Stanifesto",
       "url": "http://stanifesto.blog",
-      "date": 2022
+      "date": 2023
     }
   },
   "source": "source",
@@ -33,7 +33,6 @@
       "collection": "posts"
     },
     "@metalsmith/layouts": {
-      "default": "post.hbs",
       "directory": "templates"
     }
   }

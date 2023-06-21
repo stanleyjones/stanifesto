@@ -17,7 +17,7 @@
     "metalsmith-discover-partials": {
       "directory": "templates/partials"
     },
-    "@metalsmith/drafts": true,
+    "@metalsmith/drafts": { "default": false },
     "@metalsmith/collections": {
       "posts": {
         "pattern": "posts/*.md",

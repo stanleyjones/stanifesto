@@ -1,93 +1,101 @@
-html, body {
-    margin: 0 auto;
-    padding: 0 10px;
-    max-width: 45rem;
-    font: 300 20px/1.414 "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #333;
-    background: #fff;
+html,
+body {
+  margin: 0 auto;
+  padding: 0 10px;
+  max-width: 44rem;
+  font: 300 20px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+  background: #fff;
 }
 
 p {
-    margin: 1.414em 0;
+  margin: 1.414em 0;
 }
 
 a {
-    text-decoration: none;
-    border-bottom: 1px solid currentColor;
-    color: currentColor;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+  color: currentColor;
 }
 
 header a,
 main h2 a {
-    border-bottom: none;
+  border-bottom: none;
 }
 
 small {
-    font-size: 0.5em;
-    font-weight: normal;
+  font-size: 0.5em;
+  font-weight: normal;
 }
 
 hr {
-    clear: both;
-    height: 1px;
-    width: 50%;
-    margin: 2rem auto;
-    border: 0;
-    background: #333;
+  clear: both;
+  height: 1px;
+  width: 50%;
+  margin: 2rem auto;
+  border: 0;
+  background: #333;
 }
 
 article > header h1 {
-    font-size: 3rem;
-    line-height: 1;
-    margin: 3rem 0;
+  font-size: 3rem;
+  line-height: 1;
+  margin: 3rem 0;
+}
+
+article > header h2 {
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: normal;
+  color: #ccc;
 }
 
 article > header time {
-    color: #ccc;
+  color: #ccc;
 }
 
 article img {
-    max-width: 100%;
-    margin: 1rem 0;
+  max-width: 100%;
+  margin: 1rem 0;
 }
 
 article aside {
-    max-width: 50%;
+  max-width: 50%;
 }
 
 article aside:nth-of-type(odd) {
-    float: left;
-    margin-right: 1rem;
+  float: left;
+  margin-right: 1rem;
 }
 
 article aside:nth-of-type(even) {
-    float: right;
-    margin-left: 1rem;
+  float: right;
+  margin-left: 1rem;
 }
 
 article blockquote {
-    margin-left: 0;
-    padding-left: 2em;
-    border-left: 3px solid #ccc;
-    font-style: italic;
+  margin-left: 0;
+  padding-left: 2em;
+  border-left: 3px solid #ccc;
+  font-style: italic;
 }
 
 main > ul {
-    list-style: none;
-    padding-left: 0;
+  list-style: none;
+  padding-left: 0;
 }
 
 main > ul li {
-    display: inline;
-    transition: color 1s;
+  display: inline;
+  transition: color 1s;
 }
 
 main > ul li:after {
-    content: "/";
-    color: #333;
-    font-size: 1.5em;
+  content: "/";
+  color: #333;
+  font-size: 1.5em;
 }
 
 main > ul li h2 {
-    display: inline;
+  display: inline;
 }

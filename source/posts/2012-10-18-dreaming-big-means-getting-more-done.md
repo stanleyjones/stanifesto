@@ -4,6 +4,7 @@ slug: dreaming-big-means-getting-more-done
 layout: post.hbs
 date: 2012-10-18T08:00:44.000Z
 date_updated: 2012-10-26T06:18:18.000Z
+source: StayDiligent.com
 ---
 
 The architect Daniel Burnham is quoted as saying:
@@ -59,5 +60,3 @@ Or as Bruce Lee said:
 > Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.
 
 And then he promptly <a href="">[beat up Chuck Norris](http://www.youtube.com/watch?v=JLO1YIWQuXE).
-
-<small>*Originally posted on [StayDiligent.com](http://staydiligent.com).*</small>

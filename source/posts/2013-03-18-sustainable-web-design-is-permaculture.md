@@ -3,10 +3,12 @@ title: Sustainable web design is permaculture
 slug: sustainable-web-design-is-permaculture
 layout: post.hbs
 date: 2013-03-19T05:31:46.000Z
-date_updated:   2013-03-19T20:40:34.000Z
+date_updated: 2013-03-19T20:40:34.000Z
+source: StayDiligent.com
 ---
 
 Diligent takes the long view in most things so it follows that we strive for sustainability in our own operations as well as what we provide to clients. Since pixels are pretty different from toothbrushes, sustainable web design is pretty different than sustainable industrial design.
+
 <h3><!--more-->Web designers have been late to the conversation</h3>
 Five years ago, sustainability was everywhere. You couldn't toss a baby polar bear without hitting a magazine rack full of Green Issues. The design community hotly debated what materials and practices were and weren't "sustainable". Except web designers. I'm not sure if we weren't invited or if we declined, but the reason was the same: we didn't have those problems. We made virtual stuff.
 
@@ -15,6 +17,7 @@ A couple years later, somebody calculated the web's energy use and carbon footpr
 The alarm was sounded. Trade mags released articles like "<a href="http://www.netmagazine.com/features/save-planet-through-sustainable-web-design">Guidelines for Green Web Design</a>" and "<a href="http://www.netmagazine.com/features/save-planet-through-sustainable-web-design">Saving the planet through sustainable web design.</a>" There were more, but these two sum up the conventional wisdom—the designer's role is to reduce the site's carbon footprint.
 
 It's a worthy goal (and luckily consistent with improving user experience as fewer, smaller files increase site performance) but it feels like asking industrial designers to use less plastic: square one.
+
 <h3>Sustainability is a moving target</h3>
 Meanwhile, the concept of sustainable design deepened and matured. The <a href="http://www.designersaccord.org/">Designer's Accord</a> completed their 5-year mission "to mainstream sustainability in the global creative community." The <a href="http://www.livingprinciples.org/">Living Principles</a> provided a framework for "the four streams of sustainability – environment, people, economy, and culture."
 
@@ -29,12 +32,14 @@ If you visited the above link to the Designer's Accord, you'll see that they'r
 The impermanence of the web irks me because it is—more than any medium to date—naturally suited to evolve and adapt. If we loathe the planned obsolescence of electronic devices as unsustainable, why do we keep launching sites we know we'll completely redo in three to five years? Why do clients keep buying them?
 
 That is the real question—how do we create digital assets that are, in a word, <em>sustainable</em>?
+
 <h3>The web is more property than product</h3>
 The typical life-cycle stages like extraction and disposal don't make much sense applied to the web. Are there pixel mines? Pixel landfills?
 
 Information architecture is not a misnomer. We are creating the structure that information will inhabit for a long time, just like a building. You may paint the walls and swap out the furniture, but knocking down a wall or remodeling the kitchen shouldn't be a commonplace activity. That cost isn't negated by virtuality. If you constantly change your site's URL structure, you'll either hemorrhage traffic or have to set up lots of redirects.
 
 A website is more of a property than a product. We develop it, maintain it, renovate it. Sustainable web design is really more like land use. So let's talk <em>permaculture</em>. Permaculture is a branch of design that specializes in sustainable architecture and agriculture. They have their own <a href="http://permacultureprinciples.com/principles.php">Design Principles</a>.
+
 <blockquote>
 <ol>
 	<li>Observe &amp; interact</li>
@@ -68,5 +73,3 @@ Honestly, <strong>"Creatively use &amp; respond to change"</strong> should be t
 &nbsp;
 
 <em>If these ideas are something you want to talk more about with us, we will be at <a href="http://compostmodern.org/">Compostmodern</a> this Friday and Saturday. We've been going since 2008 and Stanley and Martha met for the first time at one. Or you can always reach out to us via <a href="mailto:info@diligentcreative.com">email</a> or <a href="http://twitter.com/staydiligent">Twitter</a>.</em>
-
-<small>*Originally posted on [StayDiligent.com](http://staydiligent.com).*</small>

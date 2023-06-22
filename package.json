@@ -5,7 +5,7 @@
   "description": "Stanifesto.blog running on Metalsmith",
   "main": "index.js",
   "scripts": {
-    "build": "metalsmith",
+    "build": "rm -rf ./public && metalsmith",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Stanley Jones <stanley@sunshocked.com>",

@@ -3,10 +3,12 @@ title: Don't treat the web like stop-and-go traffic
 slug: dont-treat-the-web-like-stop-and-go-traffic
 layout: post.hbs
 date: 2012-11-01T18:51:27.000Z
-date_updated:   2012-11-01T18:51:27.000Z
+date_updated: 2012-11-01T18:51:27.000Z
+source: StayDiligent.com
 ---
 
 It's what makes turbulence vomit-inducing and roller-coasters fun. It's the physics equivalent of "it's not the heat, it's the humidity." It's change in location divided by time, divided by time. It's acceleration... and it's what makes you dread working on your website.<!--more-->
+
 <h3>The difference between velocity and acceleration</h3>
 When your location changes, we call that distance. You were in the garage, now you're at the curb, and the difference is 10 feet. When your distance is changing, we call that velocity (or speed if you're on a bus with Keanu). The garage was 10 feet away, now it's 20 feet a second later, so you're traveling at 10 feet per second (or about 6 mph). When your velocity is changing, we call that acceleration. You were traveling at 6 mph, then you floor the accelerator and quickly ramp up to 90 mph. Vroom!
 
@@ -19,10 +21,12 @@ In your workplace, beginning a new web project is an increase in acceleration. B
 Until the next, <em>inevitable</em> web project starts.
 
 It's a disruptive way to work and ends up causing delayed starts, long gaps between necessary changes, and lost momentum.
+
 <h3>Finding your momentum</h3>
 One more physics term: momentum. It's your velocity multiplied by your mass, and it conveys—among other things—how hard it is to stop you once you've started. Sounds like a good model for managing your web presence. So how do you do it?
 
 <strong>Have a destination in mind</strong>. Ever been lost? How fast did you go? You stopped, or slowed to a crawl while trying to decide where to go next. Or worse, you wander aimlessly, like a scene out of <em>Alice in Wonderland</em>:
+
 <blockquote>"Would you tell me, please, which way I ought to go from here?"
 
 "That depends a good deal on where you want to get to," said the Cat.
@@ -39,6 +43,7 @@ You should be able to articulate what you're trying to do online with simple wor
 <strong>Make course corrections easy.</strong> When making changes are a big deal, those changes require meetings to discuss them. Those meetings have to be scheduled, which increases the time between changes. That time between changes means that changes become a bigger deal. You end up spinning your wheels (another car metaphor!) and nothing gets done.
 
 The alternative is to make constant small improvements at regular intervals. Instead of bundling changes into big "redesigns" every two years, try every two weeks. Two things happen:
+
 <ol>
 	<li>You receive the benefit of the change immediately.</li>
 	<li>These constant changes foster a culture of innovation—you're more likely to try something if you can change it back in two weeks instead of being stuck with it for another two years.</li>
@@ -50,5 +55,3 @@ Wait, did I just say to redesign your website every two weeks? Yes, I did. But r
 Instead, it's time to look at everything from your website to your social media engagement to your email marketing as a permanent commitment to the health of your organization. You give your car (or bike!) tune-ups regularly to avoid costly and painful visits to the mechanic. You brush your teeth regularly to avoid costly and painful dentist appointments. And now, you give time and attention to your web presence regularly to avoid costly and painful web redesigns.
 
 So put your website in gear, keep your hands on the wheel, and your foot off the brakes. You'll be amazed what you can accomplish thanks to physics.
-
-<small>*Originally posted on [StayDiligent.com](http://staydiligent.com).*</small>

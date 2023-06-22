@@ -3,7 +3,8 @@ title: Five years of being Diligent
 slug: five-years-diligent
 layout: post.hbs
 date: 2013-09-20T09:00:32.000Z
-date_updated:   2014-08-22T17:51:53.320Z
+date_updated: 2014-08-22T17:51:53.320Z
+source: StayDiligent.com
 ---
 
 The day after I quit my stable job to start my own design business in 2008, the economy collapsed. I was terrified that I had made a life-ending mistake.
@@ -71,9 +72,9 @@ Call a web designer, "It depends."
 
 There are reasons, of course, like our tools are still being invented while hammers are 2.5 million years old, but pricing is the thing I've struggled with the most at Diligent.
 
-*   **Flat fee.** At first I charged a single cost for the entire project. Clients appreciated knowing the cost upfront but scope creep was a huge danger (I had yet to learn Mistake #3) and I was on the hook.
-*   **Charge by the hour.** Lawyers seemed to have it right. Unfortunately, laboring over details looks suspiciously like running up the bill. I ended up eating a lot of hours to bridge the gap between what clients were willing to pay and what my sense of quality required.
-*   **Value-based pricing.** Diligent now prices projects based on the value they deliver to the client. It's challenging to calculate, especially with mission-driven organizations who have a non-traditional "bottom line", but aligns incentives and combines an upfront cost with a high quality product.
+- **Flat fee.** At first I charged a single cost for the entire project. Clients appreciated knowing the cost upfront but scope creep was a huge danger (I had yet to learn Mistake #3) and I was on the hook.
+- **Charge by the hour.** Lawyers seemed to have it right. Unfortunately, laboring over details looks suspiciously like running up the bill. I ended up eating a lot of hours to bridge the gap between what clients were willing to pay and what my sense of quality required.
+- **Value-based pricing.** Diligent now prices projects based on the value they deliver to the client. It's challenging to calculate, especially with mission-driven organizations who have a non-traditional "bottom line", but aligns incentives and combines an upfront cost with a high quality product.
 
 Of course, the proposal templates had to be totally redesigned.
 
@@ -90,5 +91,3 @@ It was [Compostmodern](http://compostmodern.org/), sustainable design conference
 With Martha onboard, Diligent is kicking into high gear. It's a strange feeling the first time you see an invoice go out to a client that you didn't send. Overall output is up and for the first time, systems need to be in place so we know what we're doing.
 
 Sounds like we need to redesign the proposal templates.
-
-<small>*Originally posted on [StayDiligent.com](http://staydiligent.com).*</small>
